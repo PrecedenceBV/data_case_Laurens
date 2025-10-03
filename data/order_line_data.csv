@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Order_Amount,Order_Date,Order_Status,Product,Payment_Method,Quantity
+CUST-JYKRWN,CUST-PXKUMZ,35,2024-01-01,Completed,Mobile Unlimited,Direct Debit,2
+CUST-UKINSH,CUST-GDNVQW,70,2024-01-02,Completed,TV + Internet Bundle,Credit Card,2
+CUST-FXNMBM,CUST-OXIJIF,79,2024-01-03,Completed,Fiber 1 Gbps,Credit Card,3
+CUST-EXUNEH,CUST-TNVUED,85,2024-01-04,Pending,VoIP Service,PayPal,1
+CUST-XVIICH,CUST-EWKIHB,132,2024-01-05,Pending,Mobile Unlimited,Direct Debit,1
+CUST-IFSWZI,CUST-LHHFXX,26,2024-01-06,Cancelled,Fiber 500 Mbps,PayPal,3
+CUST-QUHUSI,CUST-OSXSKT,110,2024-01-07,Cancelled,Fiber 1 Gbps,Credit Card,1
+CUST-WADGCO,CUST-RKAYXK,62,2024-01-08,Completed,Mobile Unlimited,Credit Card,2
+CUST-SMOHQC,CUST-FCXNTK,87,2024-01-09,Pending,Fiber 500 Mbps,Direct Debit,3
+CUST-KOBCUD,CUST-JNUKMM,113,2024-01-10,Pending,Fiber 500 Mbps,PayPal,1
+CUST-ZXVXMA,CUST-LVKJTS,130,2024-01-11,Cancelled,Fiber 1 Gbps,PayPal,2
+CUST-DZVOLG,CUST-KFDXIB,70,2024-01-12,Pending,TV + Internet Bundle,Credit Card,3
+CUST-QYQCFF,CUST-AXUZAC,32,2024-01-13,Cancelled,TV + Internet Bundle,Direct Debit,3
+CUST-WRPNWU,CUST-DTXMMO,77,2024-01-14,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-CSZPJK,CUST-TZVJIZ,103,2024-01-15,Completed,TV + Internet Bundle,Credit Card,4
+CUST-PMAGPY,CUST-XWELRG,33,2024-01-16,Pending,Fiber 1 Gbps,PayPal,2
+CUST-LYQSPO,CUST-YBZPYF,115,2024-01-17,Completed,VoIP Service,Credit Card,3
+CUST-SLXHSN,CUST-LNBTBO,26,2024-01-18,Pending,Mobile Unlimited,Direct Debit,2
+CUST-CWSOIA,CUST-ZQNUDE,70,2024-01-19,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-EYPTLG,CUST-UDZBRN,143,2024-01-20,Cancelled,VoIP Service,Credit Card,2
+CUST-XXPLGI,CUST-POPCVV,83,2024-01-21,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-YKKMSO,CUST-IVMZMZ,113,2024-01-22,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-CZRVGB,CUST-ALLCPB,115,2024-01-23,Cancelled,Fiber 1 Gbps,Credit Card,2
+CUST-HEJXER,CUST-CJGEMY,99,2024-01-24,Completed,VoIP Service,Credit Card,4
+CUST-TQCWOR,CUST-XSDDEV,143,2024-01-25,Cancelled,TV + Internet Bundle,Direct Debit,4
+CUST-URGGYZ,CUST-TFYDJK,66,2024-01-26,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-VYFAEW,CUST-STTQFH,116,2024-01-27,Pending,TV + Internet Bundle,Credit Card,3
+CUST-FPGOKA,CUST-TURDGX,64,2024-01-28,Cancelled,Mobile Unlimited,Direct Debit,4
+CUST-DTJAUC,CUST-CGMGEH,60,2024-01-29,Completed,VoIP Service,PayPal,4
+CUST-WOGCUZ,CUST-MB0ZPM,76,2024-01-30,Cancelled,VoIP Service,PayPal,1
+CUST-AWVDVT,CUST-QXQMUP,83,2024-01-31,Cancelled,Fiber 1 Gbps,Direct Debit,4
+CUST-QJDKHS,CUST-OCDINL,100,2024-02-01,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-GBCKUU,CUST-ATHDUR,68,2024-02-02,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-VRATJU,CUST-FYWMJW,143,2024-02-03,Cancelled,TV + Internet Bundle,PayPal,3
+CUST-CKCEGT,CUST-TILJTQ,62,2024-02-04,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-FZPCAH,CUST-ATGDAJ,126,2024-02-05,Pending,VoIP Service,Direct Debit,3
+CUST-WPKVPH,CUST-RHAJJC,33,2024-02-06,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-CHTDHF,CUST-QNJYFO,148,2024-02-07,Completed,VoIP Service,Direct Debit,2
+CUST-PZYYXG,CUST-YQHGMZ,98,2024-02-08,Completed,VoIP Service,Credit Card,1
+CUST-OLEKGS,CUST-RHXYTK,42,2024-02-09,Pending,Mobile Unlimited,Credit Card,2
+CUST-VJXIAK,CUST-KQQAJZ,84,2024-02-10,Completed,VoIP Service,Credit Card,3
+CUST-EANJSG,CUST-JXCAIP,50,2024-02-11,Pending,VoIP Service,PayPal,2
+CUST-FCWNXF,CUST-QXPWZY,91,2024-02-12,Completed,TV + Internet Bundle,PayPal,2
+CUST-HAHSVI,CUST-XXPAKC,65,2024-02-13,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-VUSYJD,CUST-ECEQVP,72,2024-02-14,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-BHKUAE,CUST-INYAMS,128,2024-02-15,Completed,TV + Internet Bundle,PayPal,4
+CUST-THKLOC,CUST-TIEYQZ,27,2024-02-16,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-VBPRAU,CUST-TFSTTN,90,2024-02-17,Completed,TV + Internet Bundle,Credit Card,2
+CUST-GXYZQE,CUST-HPPBTX,100,2024-02-18,Cancelled,VoIP Service,PayPal,4
+CUST-COIVGK,CUST-JJUYUI,140,2024-02-19,Completed,Fiber 1 Gbps,Credit Card,3
+CUST-MRNMEO,CUST-TUQHIJ,82,2024-02-20,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-IUQRDE,CUST-JUWXSS,74,2024-02-21,Pending,Fiber 1 Gbps,Credit Card,3
+CUST-WAOPIF,CUST-YZABGU,80,2024-02-22,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-QMWKRN,CUST-URPHGZ,92,2024-02-23,Cancelled,Fiber 500 Mbps,Direct Debit,1
+CUST-HWNAMJ,CUST-BFFQDK,117,2024-02-24,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-RZOYIB,CUST-XJQCTZ,54,2024-02-25,Pending,VoIP Service,PayPal,2
+CUST-NNXRSW,CUST-CWWMCC,111,2024-02-26,Cancelled,Fiber 1 Gbps,PayPal,4
+CUST-CJQJSK,CUST-RNGPDK,149,2024-02-27,Pending,VoIP Service,Direct Debit,1
+CUST-LBLQJH,CUST-AXUZAC,51,2024-02-28,Pending,TV + Internet Bundle,Credit Card,2
+CUST-UOMEJJ,CUST-OLTCJM,107,2024-02-29,Pending,Fiber 500 Mbps,PayPal,2
+CUST-ONPSQW,CUST-ISBIX0,74,2024-03-01,Cancelled,TV + Internet Bundle,PayPal,1
+CUST-PGCNYE,CUST-NEVUGZ,32,2024-03-02,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-AKVKJZ,CUST-IXDGEA,30,2024-03-03,Pending,Fiber 1 Gbps,PayPal,1
+CUST-QFIVHT,CUST-NIMLZA,31,2024-03-04,Completed,Mobile Unlimited,PayPal,1
+CUST-HEEMEQ,CUST-COZPTL,45,2024-03-05,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-MIHXUE,CUST-DBYADB,49,2024-03-06,Cancelled,Fiber 500 Mbps,Direct Debit,3
+CUST-UISXBX,CUST-JWRVMF,132,2024-03-07,Completed,TV + Internet Bundle,Credit Card,1
+CUST-HHFSQQ,CUST-GOZBZA,141,2024-03-08,Completed,Fiber 500 Mbps,PayPal,4
+CUST-XGDRVW,CUST-MRJNDQ,136,2024-03-09,Completed,Fiber 500 Mbps,Credit Card,3
+CUST-CEZQUW,CUST-MLJRYA,32,2024-03-10,Cancelled,Fiber 500 Mbps,PayPal,1
+CUST-DCZDWE,CUST-RMTMYP,134,2024-03-11,Pending,Mobile Unlimited,Direct Debit,4
+CUST-JDWDCU,CUST-GLXSEC,40,2024-03-12,Cancelled,TV + Internet Bundle,PayPal,4
+CUST-YNBFBR,CUST-CXBDKJ,59,2024-03-13,Cancelled,Mobile Unlimited,Direct Debit,1
+CUST-VTLOJF,CUST-EKQUIY,48,2024-03-14,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-KCCMPI,CUST-NAHFVZ,21,2024-03-15,Completed,Fiber 500 Mbps,PayPal,4
+CUST-BMSJGL,CUST-QWBXEZ,53,2024-03-16,Completed,Fiber 500 Mbps,Direct Debit,3
+CUST-CZRNBU,CUST-WTWNVL,112,2024-03-17,Completed,Mobile Unlimited,Direct Debit,4
+CUST-JLUBUB,CUST-DMNBQX,30,2024-03-18,Completed,Fiber 1 Gbps,PayPal,1
+CUST-XTBFBC,CUST-XBTYZL,61,2024-03-19,Completed,TV + Internet Bundle,Credit Card,2
+CUST-GTYUUP,CUST-OJAJKO,143,2024-03-20,Completed,Mobile Unlimited,Credit Card,4
+CUST-WIECDL,CUST-KEEUBP,86,2024-03-21,Cancelled,VoIP Service,PayPal,1
+CUST-EIYIXO,CUST-DICFBV,145,2024-03-22,Cancelled,Mobile Unlimited,Credit Card,4
+CUST-RHNCTA,CUST-KLADFR,40,2024-03-23,Completed,VoIP Service,Direct Debit,3
+CUST-TV0TQP,CUST-POPCVV,39,2024-03-24,Completed,TV + Internet Bundle,Credit Card,2
+CUST-EEJWLQ,CUST-ZTTLAD,34,2024-03-25,Pending,Mobile Unlimited,PayPal,1
+CUST-KYQMUN,CUST-CSQPSW,116,2024-03-26,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-USDQLM,CUST-QKIHVH,113,2024-03-27,Cancelled,Mobile Unlimited,PayPal,2
+CUST-FMXNNP,CUST-KXTAXT,37,2024-03-28,Pending,Mobile Unlimited,Credit Card,4
+CUST-GIQTHM,CUST-ACWNBB,93,2024-03-29,Cancelled,Fiber 1 Gbps,Direct Debit,4
+CUST-COARTS,CUST-ADQUHG,133,2024-03-30,Pending,Fiber 500 Mbps,Direct Debit,3
+CUST-WYUVUJ,CUST-LRQNCG,65,2024-03-31,Pending,Fiber 1 Gbps,Credit Card,1
+CUST-UEEGRT,CUST-RIRDWS,76,2024-04-01,Pending,TV + Internet Bundle,PayPal,2
+CUST-KZRSSI,CUST-DMNBQX,73,2024-04-02,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-VUTPFN,CUST-WTDDJW,40,2024-04-03,Completed,Mobile Unlimited,Credit Card,1
+CUST-GAQJEL,CUST-WGQLZM,148,2024-04-04,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-PXYXJK,CUST-RWVLPD,34,2024-04-05,Completed,VoIP Service,Credit Card,4
+CUST-NXKAJT,CUST-EOUSHW,71,2024-04-06,Pending,Fiber 1 Gbps,PayPal,3
+CUST-XQOPNV,CUST-PGJYWE,60,2024-04-07,Pending,Fiber 500 Mbps,PayPal,1
+CUST-NVFRMM,CUST-UGYEEN,31,2024-04-08,Cancelled,TV + Internet Bundle,PayPal,3
+CUST-XSHUHN,CUST-GHSVBI,63,2024-04-09,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-EHFSTE,CUST-CEJXCG,76,2024-04-10,Completed,Fiber 500 Mbps,Direct Debit,3
+CUST-SNNINW,CUST-TIUERI,70,2024-04-11,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-FOIYXJ,CUST-BFFQDK,112,2024-04-12,Completed,Fiber 1 Gbps,PayPal,4
+CUST-WLXHNT,CUST-OILAIL,112,2024-04-13,Pending,VoIP Service,Credit Card,2
+CUST-GQDFPG,CUST-GTAMDH,74,2024-04-14,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-XPRICM,CUST-HRPIY0,105,2024-04-15,Pending,Fiber 500 Mbps,PayPal,2
+CUST-JKZQFS,CUST-CWKDCJ,39,2024-04-16,Cancelled,Fiber 1 Gbps,PayPal,1
+CUST-NHZKIF,CUST-QUAITW,29,2024-04-17,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-UWUZEI,CUST-PSHGCM,34,2024-04-18,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-OYCFKJ,CUST-BBQMFG,87,2024-04-19,Cancelled,TV + Internet Bundle,Direct Debit,1
+CUST-KUXCLC,CUST-TGAEYN,106,2024-04-20,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-GUKRGQ,CUST-URVTRD,105,2024-04-21,Cancelled,Fiber 1 Gbps,PayPal,1
+CUST-DHKQJK,CUST-WPIIDZ,83,2024-04-22,Completed,Mobile Unlimited,PayPal,3
+CUST-ETRSRY,CUST-ASMOPP,75,2024-04-23,Cancelled,TV + Internet Bundle,Credit Card,1
+CUST-NOEYUV,CUST-QFKIWK,148,2024-04-24,Cancelled,VoIP Service,Direct Debit,4
+CUST-TEFUPD,CUST-SYEZYZ,50,2024-04-25,Pending,Mobile Unlimited,PayPal,4
+CUST-MOVUFK,CUST-IGRLGZ,58,2024-04-26,Pending,Fiber 1 Gbps,Direct Debit,4
+CUST-HHJDMI,CUST-NRBIXS,100,2024-04-27,Pending,Fiber 1 Gbps,PayPal,3
+CUST-BFVRYM,CUST-RPKSUW,65,2024-04-28,Cancelled,TV + Internet Bundle,Direct Debit,3
+CUST-RPXNYA,CUST-JYOAFT,71,2024-04-29,Pending,VoIP Service,Direct Debit,4
+CUST-RPEEOI,CUST-UHMZOE,52,2024-04-30,Completed,Fiber 1 Gbps,PayPal,4
+CUST-AXUXDS,CUST-KHFNCO,134,2024-05-01,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-KOXSIH,CUST-FWYGPK,139,2024-05-02,Cancelled,Mobile Unlimited,PayPal,1
+CUST-DXCCDA,CUST-RWQDIZ,148,2024-05-03,Completed,Fiber 1 Gbps,PayPal,1
+CUST-WKDTZF,CUST-FSXOID,72,2024-05-04,Pending,Mobile Unlimited,PayPal,1
+CUST-QNSDUU,CUST-KDYFRH,111,2024-05-05,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-GLOSDS,CUST-IYVAZU,101,2024-05-06,Completed,VoIP Service,Credit Card,1
+CUST-GRLHUU,CUST-NSHHOL,110,2024-05-07,Completed,Fiber 1 Gbps,PayPal,2
+CUST-CBBAZU,CUST-RCXLSW,76,2024-05-08,Cancelled,Fiber 500 Mbps,Credit Card,2
+CUST-JCBRLU,CUST-MDBLHX,86,2024-05-09,Completed,TV + Internet Bundle,PayPal,3
+CUST-XJZWCP,CUST-YXXOBB,140,2024-05-10,Cancelled,Fiber 1 Gbps,PayPal,3
+CUST-OCWFXP,CUST-YKWDPO,44,2024-05-11,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-S0MNPA,CUST-SDMHQJ,115,2024-05-12,Pending,TV + Internet Bundle,Credit Card,3
+CUST-FRNFTS,CUST-NAWWUX,59,2024-05-13,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-OAREHR,CUST-DBCXZG,114,2024-05-14,Cancelled,Mobile Unlimited,PayPal,2
+CUST-BTKPII,CUST-OVZMXB,71,2024-05-15,Cancelled,Fiber 500 Mbps,Credit Card,1
+CUST-AOGBVE,CUST-MRJNDQ,109,2024-05-16,Completed,TV + Internet Bundle,Credit Card,2
+CUST-KFMQDO,CUST-SCKXVX,33,2024-05-17,Pending,Mobile Unlimited,Credit Card,1
+CUST-IPQLJK,CUST-BPZUNC,48,2024-05-18,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-AREIBK,CUST-TZRLJT,133,2024-05-19,Completed,VoIP Service,PayPal,4
+CUST-NQLIAP,CUST-CRVNWM,87,2024-05-20,Completed,TV + Internet Bundle,Credit Card,2
+CUST-GXIIKO,CUST-CRFVZY,44,2024-05-21,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-YOMBEX,CUST-JLRSZW,90,2024-05-22,Cancelled,Fiber 1 Gbps,Credit Card,2
+CUST-ZSITKJ,CUST-SYEZYZ,50,2024-05-23,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-YOCZUK,CUST-CKUFUI,122,2024-05-24,Completed,Mobile Unlimited,Direct Debit,2
+CUST-EBEKPK,CUST-BGEGKK,97,2024-05-25,Pending,Fiber 1 Gbps,Credit Card,1
+CUST-TGVTVO,CUST-MFVDKL,29,2024-05-26,Pending,VoIP Service,Credit Card,3
+CUST-JJIWQF,CUST-YDPRKI,99,2024-05-27,Completed,Mobile Unlimited,PayPal,2
+CUST-NNNXNE,CUST-YEMUOW,121,2024-05-28,Pending,Fiber 500 Mbps,Direct Debit,2
+CUST-CXUYVQ,CUST-VKHWHK,132,2024-05-29,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-VQBKAD,CUST-AIFNIY,72,2024-05-30,Pending,Mobile Unlimited,PayPal,4
+CUST-PWAYQE,CUST-PBYTWS,58,2024-05-31,Completed,Mobile Unlimited,PayPal,1
+CUST-JQDMUO,CUST-FRWMSB,55,2024-06-01,Cancelled,Fiber 1 Gbps,Direct Debit,4
+CUST-GAXKSL,CUST-PDVTVV,78,2024-06-02,Completed,Mobile Unlimited,Direct Debit,2
+CUST-PQLDZL,CUST-KLADFR,128,2024-06-03,Cancelled,VoIP Service,Direct Debit,2
+CUST-JSVKPY,CUST-OVPZFP,75,2024-06-04,Cancelled,TV + Internet Bundle,Credit Card,1
+CUST-MIOQWD,CUST-WFFDVN,88,2024-06-05,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-EXAEWJ,CUST-KDYFRH,147,2024-06-06,Pending,Fiber 500 Mbps,PayPal,2
+CUST-BCYPKE,CUST-YAFHFQ,65,2024-06-07,Completed,VoIP Service,PayPal,4
+CUST-QFTOPP,CUST-UUCHGJ,51,2024-06-08,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-WQKSHJ,CUST-EXHGCU,98,2024-06-09,Cancelled,Fiber 1 Gbps,PayPal,4
+CUST-QPJILY,CUST-AXIFAK,72,2024-06-10,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-WOZOMW,CUST-QIWXYG,73,2024-06-11,Cancelled,Mobile Unlimited,PayPal,2
+CUST-HJDCCK,CUST-LUXHPK,119,2024-06-12,Pending,Fiber 1 Gbps,Credit Card,2
+CUST-THOOYD,CUST-HWATOI,39,2024-06-13,Pending,VoIP Service,Credit Card,2
+CUST-XNXDTS,CUST-AUVAWV,50,2024-06-14,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-JIFQPR,CUST-DMNBQX,69,2024-06-15,Cancelled,TV + Internet Bundle,Credit Card,2
+CUST-ZZGPCY,CUST-SXQGJD,61,2024-06-16,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-WHLZEI,CUST-CXBDKJ,92,2024-06-17,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-LYYROU,CUST-UFLWRT,116,2024-06-18,Completed,Mobile Unlimited,Direct Debit,1
+CUST-SQHKUR,CUST-BFRQNA,106,2024-06-19,Cancelled,Fiber 1 Gbps,Direct Debit,2
+CUST-GKZERO,CUST-KOVZHG,125,2024-06-20,Cancelled,TV + Internet Bundle,Direct Debit,1
+CUST-OJKIAE,CUST-URPHGZ,97,2024-06-21,Completed,Mobile Unlimited,Direct Debit,4
+CUST-NYNFMU,CUST-COTGVV,38,2024-06-22,Completed,TV + Internet Bundle,Credit Card,4
+CUST-MXIRIT,CUST-LBLNML,75,2024-06-23,Pending,VoIP Service,PayPal,1
+CUST-LEQNLW,CUST-CEHZBV,70,2024-06-24,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-RFYJFT,CUST-PYFUDX,31,2024-06-25,Pending,Fiber 1 Gbps,PayPal,1
+CUST-VOUXJJ,CUST-BLEUJG,87,2024-06-26,Pending,VoIP Service,PayPal,4
+CUST-ZQTOCI,CUST-BXADMI,95,2024-06-27,Completed,VoIP Service,PayPal,1
+CUST-GZXDWY,CUST-HKCYXU,115,2024-06-28,Pending,Fiber 500 Mbps,Direct Debit,3
+CUST-LMBZKC,CUST-DAYGHS,88,2024-06-29,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-YUVUZS,CUST-IVMZMZ,148,2024-06-30,Completed,TV + Internet Bundle,Credit Card,4
+CUST-LCABFJ,CUST-ROAVXZ,71,2024-07-01,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-WQTSEL,CUST-ISBGAR,132,2024-07-02,Pending,TV + Internet Bundle,Direct Debit,4
+CUST-RDMOXG,CUST-KJWNWH,56,2024-07-03,Completed,Mobile Unlimited,Direct Debit,2
+CUST-BNBPYS,CUST-XRANNB,31,2024-07-04,Cancelled,Fiber 500 Mbps,PayPal,1
+CUST-ZPKERW,CUST-LLKCBY,105,2024-07-05,Completed,VoIP Service,PayPal,1
+CUST-LSXWMW,CUST-SJWVXL,134,2024-07-06,Cancelled,VoIP Service,Credit Card,4
+CUST-FGYYUL,CUST-TVDOJG,140,2024-07-07,Pending,Fiber 500 Mbps,PayPal,1
+CUST-MQSEFJ,CUST-ROSFWM,69,2024-07-08,Completed,TV + Internet Bundle,Direct Debit,3
+CUST-HIDWKI,CUST-YTQGXK,28,2024-07-09,Pending,VoIP Service,Direct Debit,2
+CUST-FXOOWN,CUST-NAWWUX,68,2024-07-10,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-FDQLNB,CUST-PRKQGZ,111,2024-07-11,Cancelled,VoIP Service,Direct Debit,1
+CUST-MZHPTD,CUST-HPIPIB,63,2024-07-12,Cancelled,VoIP Service,Direct Debit,4
+CUST-JJQSWH,CUST-EXEPUG,29,2024-07-13,Cancelled,VoIP Service,Credit Card,1
+CUST-LHYTSL,CUST-ISBGAR,63,2024-07-14,Completed,Mobile Unlimited,PayPal,3
+CUST-PFBVEJ,CUST-FOUQHK,143,2024-07-15,Pending,Fiber 500 Mbps,PayPal,1
+CUST-BJBPFB,CUST-KXTAXT,109,2024-07-16,Completed,Fiber 1 Gbps,PayPal,1
+CUST-AGXRME,CUST-FWYGPK,103,2024-07-17,Pending,Fiber 1 Gbps,PayPal,2
+CUST-JOBQKK,CUST-BADZWJ,138,2024-07-18,Completed,VoIP Service,PayPal,4
+CUST-VXJBOQ,CUST-WWOFAL,53,2024-07-19,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-PMURNN,CUST-CRFVZY,43,2024-07-20,Pending,Fiber 1 Gbps,PayPal,2
+CUST-HLXIBR,CUST-LTVMUX,129,2024-07-21,Pending,Mobile Unlimited,Direct Debit,3
+CUST-OGSVCU,CUST-TFSTTN,35,2024-07-22,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-WSTWXY,CUST-VLZB0Y,25,2024-07-23,Pending,VoIP Service,Direct Debit,2
+CUST-JTKUMA,CUST-KZCKQZ,86,2024-07-24,Pending,VoIP Service,Direct Debit,3
+CUST-DJAWEZ,CUST-TROHDX,91,2024-07-25,Completed,Mobile Unlimited,Direct Debit,3
+CUST-CXTNXR,CUST-CAAFCG,55,2024-07-26,Completed,TV + Internet Bundle,Credit Card,2
+CUST-CLIMSX,CUST-DPCBFN,130,2024-07-27,Cancelled,Fiber 1 Gbps,Credit Card,3
+CUST-HMOHYK,CUST-FSQAXB,149,2024-07-28,Cancelled,Mobile Unlimited,PayPal,2
+CUST-SEEDHJ,CUST-WTDDJW,67,2024-07-29,Pending,Fiber 1 Gbps,Credit Card,2
+CUST-MHIJZI,CUST-ZSUIUF,116,2024-07-30,Completed,Fiber 1 Gbps,PayPal,4
+CUST-WKDOIK,CUST-EFAKSZ,63,2024-07-31,Completed,Fiber 1 Gbps,PayPal,3
+CUST-XNSZAK,CUST-ZQNUDE,60,2024-08-01,Cancelled,Fiber 1 Gbps,Credit Card,4
+CUST-NVSLPW,CUST-LRQNCG,20,2024-08-02,Pending,Mobile Unlimited,Direct Debit,2
+CUST-MEYWRS,CUST-HSADJP,50,2024-08-03,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-TAIERA,CUST-XWKZAX,64,2024-08-04,Pending,Mobile Unlimited,PayPal,2
+CUST-PPJMAY,CUST-DPCBFN,28,2024-08-05,Pending,Mobile Unlimited,PayPal,4
+CUST-KYGTAQ,CUST-TMBFJM,111,2024-08-06,Cancelled,TV + Internet Bundle,Direct Debit,3
+CUST-PWCAZD,CUST-EKQUIY,56,2024-08-07,Pending,VoIP Service,Direct Debit,2
+CUST-TKOKXS,CUST-IIXSHB,52,2024-08-08,Pending,TV + Internet Bundle,PayPal,2
+CUST-GINBAZ,CUST-IXDGEA,106,2024-08-09,Cancelled,TV + Internet Bundle,Direct Debit,3
+CUST-WKDUKX,CUST-TTKGFM,61,2024-08-10,Completed,Fiber 500 Mbps,Direct Debit,4
+CUST-ZRABEU,CUST-NOSGJS,68,2024-08-11,Completed,Fiber 1 Gbps,PayPal,2
+CUST-KYVMQM,CUST-FUFQNG,134,2024-08-12,Pending,TV + Internet Bundle,Credit Card,2
+CUST-XBZVRN,CUST-FNKEIJ,49,2024-08-13,Pending,VoIP Service,PayPal,2
+CUST-GGSHRY,CUST-IVAMMC,27,2024-08-14,Pending,VoIP Service,Direct Debit,4
+CUST-ZE0MJN,CUST-WWMUHA,124,2024-08-15,Completed,TV + Internet Bundle,PayPal,2
+CUST-WUXDCQ,CUST-DWIFBM,43,2024-08-16,Completed,VoIP Service,Direct Debit,1
+CUST-YEOOEI,CUST-NYC0TR,107,2024-08-17,Completed,TV + Internet Bundle,Credit Card,1
+CUST-FOXMDB,CUST-IVMZMZ,110,2024-08-18,Pending,VoIP Service,Direct Debit,4
+CUST-GLNEEV,CUST-OOEKPO,126,2024-08-19,Pending,Fiber 1 Gbps,PayPal,2
+CUST-FURVQL,CUST-TYEIMG,136,2024-08-20,Pending,Fiber 1 Gbps,Credit Card,3
+CUST-VQSEQZ,CUST-NJECLL,120,2024-08-21,Completed,Fiber 500 Mbps,Credit Card,4
+CUST-AJRRPK,CUST-ZEDDTG,124,2024-08-22,Pending,Fiber 1 Gbps,PayPal,4
+CUST-INJTRV,CUST-RPATXD,47,2024-08-23,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-DOGTZH,CUST-ZUCXJW,63,2024-08-24,Pending,VoIP Service,PayPal,4
+CUST-GMPBHU,CUST-DUKUTK,126,2024-08-25,Cancelled,VoIP Service,Credit Card,1
+CUST-UXPICB,CUST-YUBLAQ,27,2024-08-26,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-WNHGSV,CUST-TJWLZE,114,2024-08-27,Cancelled,Mobile Unlimited,PayPal,4
+CUST-WXWEQI,CUST-MYHYST,98,2024-08-28,Cancelled,Mobile Unlimited,PayPal,3
+CUST-UZRKNT,CUST-QFWMFF,31,2024-08-29,Pending,Fiber 1 Gbps,Credit Card,3
+CUST-WFSPKV,CUST-CSQPSW,99,2024-08-30,Pending,TV + Internet Bundle,Credit Card,3
+CUST-ADJYQY,CUST-MVCMGU,36,2024-08-31,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-NQQVMP,CUST-XRPDAP,102,2024-09-01,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-JRFQOJ,CUST-TIWDVV,33,2024-09-02,Pending,Mobile Unlimited,PayPal,3
+CUST-RRNCWC,CUST-FTZKRZ,33,2024-09-03,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-AWGQKK,CUST-ZUCXJW,141,2024-09-04,Pending,Mobile Unlimited,Direct Debit,4
+CUST-DWUBDL,CUST-QCQHAY,98,2024-09-05,Cancelled,VoIP Service,PayPal,3
+CUST-GLBGLV,CUST-PCKIPI,60,2024-09-06,Pending,VoIP Service,Credit Card,1
+CUST-GDLUQS,CUST-MVLPBX,119,2024-09-07,Pending,VoIP Service,Direct Debit,4
+CUST-RWVEAB,CUST-PLXEDI,99,2024-09-08,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-ELOGMS,CUST-BIVXZS,40,2024-09-09,Completed,VoIP Service,PayPal,3
+CUST-DPSJDG,CUST-IDVYOK,127,2024-09-10,Cancelled,Fiber 1 Gbps,PayPal,2
+CUST-LHYNJH,CUST-EQJHOG,48,2024-09-11,Pending,VoIP Service,PayPal,2
+CUST-OZGQUY,CUST-ETTPKF,126,2024-09-12,Completed,Fiber 500 Mbps,Credit Card,2
+CUST-OSFHQI,CUST-TEHYLZ,88,2024-09-13,Completed,TV + Internet Bundle,Direct Debit,3
+CUST-BQDVPR,CUST-WURETA,56,2024-09-14,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-IUXGLX,CUST-KLRPTR,35,2024-09-15,Completed,VoIP Service,PayPal,4
+CUST-WQFDZC,CUST-GKHFIY,56,2024-09-16,Cancelled,VoIP Service,Direct Debit,3
+CUST-NFWOGZ,CUST-BFFQDK,44,2024-09-17,Completed,Mobile Unlimited,Credit Card,3
+CUST-NDPENJ,CUST-XWELRG,35,2024-09-18,Completed,Mobile Unlimited,Direct Debit,1
+CUST-MOQSZN,CUST-TWRMNI,103,2024-09-19,Completed,Fiber 500 Mbps,PayPal,1
+CUST-DMYQGM,CUST-YOXXWE,32,2024-09-20,Cancelled,Fiber 1 Gbps,Credit Card,3
+CUST-XOSOLO,CUST-MGGOBL,98,2024-09-21,Cancelled,Mobile Unlimited,PayPal,3
+CUST-EHOHUJ,CUST-EFWEPI,130,2024-09-22,Completed,TV + Internet Bundle,PayPal,2
+CUST-UASMZB,CUST-UQRMEL,147,2024-09-23,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-NIROUD,CUST-QTBDQU,101,2024-09-24,Pending,VoIP Service,Credit Card,1
+CUST-GUDVOD,CUST-GZKUYR,133,2024-09-25,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-SNQIYW,CUST-YKOOWP,85,2024-09-26,Completed,Fiber 1 Gbps,PayPal,2
+CUST-DDJDMX,CUST-NPBE0V,25,2024-09-27,Pending,Fiber 1 Gbps,PayPal,2
+CUST-LIVOMZ,CUST-SGSTOO,101,2024-09-28,Completed,Fiber 1 Gbps,PayPal,2
+CUST-XACWPE,CUST-MVLPBX,140,2024-09-29,Pending,Mobile Unlimited,Direct Debit,1
+CUST-ASXMOD,CUST-QDCGMD,83,2024-09-30,Pending,Mobile Unlimited,Credit Card,4
+CUST-AEZNSH,CUST-NEIVBH,148,2024-10-01,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-RHMDSF,CUST-TFEJMN,42,2024-10-02,Cancelled,VoIP Service,PayPal,4
+CUST-EZLLRU,CUST-IGIBJW,105,2024-10-03,Completed,Mobile Unlimited,Direct Debit,2
+CUST-GKMBXR,CUST-RJJVTW,22,2024-10-04,Cancelled,Fiber 500 Mbps,Credit Card,2
+CUST-UZBBYQ,CUST-TUQHIJ,52,2024-10-05,Pending,Mobile Unlimited,PayPal,3
+CUST-QCXOSS,CUST-UGBOKZ,96,2024-10-06,Completed,Fiber 1 Gbps,PayPal,3
+CUST-ITRKNX,CUST-QCQHAY,36,2024-10-07,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-FDVGHD,CUST-SYASAA,83,2024-10-08,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-NRQQDT,CUST-DIMBOY,20,2024-10-09,Cancelled,Mobile Unlimited,PayPal,4
+CUST-BGCUXY,CUST-VMJJZX,78,2024-10-10,Completed,Mobile Unlimited,Credit Card,1
+CUST-RJHSOH,CUST-SSCABG,63,2024-10-11,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-AOOVTX,CUST-GDLSKA,115,2024-10-12,Pending,Fiber 500 Mbps,PayPal,2
+CUST-HADRDS,CUST-RWCABU,66,2024-10-13,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-AWADUS,CUST-LTVMUX,135,2024-10-14,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-XJTWUH,CUST-WFFDVN,88,2024-10-15,Completed,Fiber 1 Gbps,PayPal,2
+CUST-RSXMSH,CUST-MRGRGJ,102,2024-10-16,Cancelled,Fiber 500 Mbps,PayPal,3
+CUST-MZOIAM,CUST-WMGAAV,101,2024-10-17,Cancelled,VoIP Service,PayPal,4
+CUST-NEGINT,CUST-UZHYCU,69,2024-10-18,Cancelled,Fiber 1 Gbps,Credit Card,1
+CUST-HACOFB,CUST-XWELRG,82,2024-10-19,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-ECKWEH,CUST-QNBFRZ,25,2024-10-20,Cancelled,VoIP Service,PayPal,2
+CUST-NGBHOD,CUST-VUODWE,79,2024-10-21,Completed,TV + Internet Bundle,Credit Card,1
+CUST-ZEQZDJ,CUST-MRGRGJ,101,2024-10-22,Cancelled,TV + Internet Bundle,Direct Debit,4
+CUST-AVLDPU,CUST-PHAQMD,83,2024-10-23,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-GPXPZY,CUST-YKQYPP,70,2024-10-24,Pending,Mobile Unlimited,Credit Card,2
+CUST-WNFWPM,CUST-0PS0NU,24,2024-10-25,Completed,Fiber 500 Mbps,PayPal,4
+CUST-JWMWLU,CUST-TILJTQ,79,2024-10-26,Completed,Fiber 500 Mbps,Credit Card,2
+CUST-RCCKPZ,CUST-IYVAZU,87,2024-10-27,Pending,TV + Internet Bundle,Credit Card,1
+CUST-WQVKYV,CUST-WHAKCY,83,2024-10-28,Pending,Mobile Unlimited,Direct Debit,2
+CUST-BZXVDN,CUST-QJXXNX,107,2024-10-29,Completed,TV + Internet Bundle,PayPal,1
+CUST-CEWHTM,CUST-ERETLE,88,2024-10-30,Completed,VoIP Service,PayPal,1
+CUST-RQZSAE,CUST-IIXSHB,110,2024-10-31,Pending,TV + Internet Bundle,Direct Debit,1
+CUST-STNBPI,CUST-DXWBTH,61,2024-11-01,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-AZCZHV,CUST-SVZRPL,49,2024-11-02,Cancelled,TV + Internet Bundle,Credit Card,2
+CUST-VVTFAC,CUST-COTGVV,110,2024-11-03,Completed,Fiber 500 Mbps,PayPal,4
+CUST-KOQODC,CUST-WCWODX,39,2024-11-04,Pending,Fiber 1 Gbps,Direct Debit,3
+CUST-FIZOJD,CUST-HPPBTX,86,2024-11-05,Pending,TV + Internet Bundle,PayPal,4
+CUST-IANMUO,CUST-QWBXEZ,61,2024-11-06,Pending,TV + Internet Bundle,Direct Debit,2
+CUST-YOEJCY,CUST-JSJXXR,124,2024-11-07,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-SOTRLT,CUST-GXRFRI,120,2024-11-08,Pending,TV + Internet Bundle,Credit Card,3
+CUST-ZOJBOD,CUST-QKIHVH,79,2024-11-09,Cancelled,VoIP Service,Credit Card,1
+CUST-CSPTFD,CUST-JRZRQJ,120,2024-11-10,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-DGVGUB,CUST-OHMWPS,137,2024-11-11,Cancelled,Mobile Unlimited,Direct Debit,4
+CUST-LGKCFH,CUST-MLCHWG,31,2024-11-12,Pending,VoIP Service,Direct Debit,1
+CUST-OFMCWV,CUST-CTXUBV,75,2024-11-13,Completed,Fiber 500 Mbps,Credit Card,2
+CUST-LRSIJD,CUST-EOUSHW,43,2024-11-14,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-OGOOLA,CUST-CWWMCC,92,2024-11-15,Completed,Mobile Unlimited,PayPal,2
+CUST-UDVKMW,CUST-WPMJVW,143,2024-11-16,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-DREXPB,CUST-GPJBJX,36,2024-11-17,Pending,VoIP Service,PayPal,1
+CUST-RMQION,CUST-VDSRHI,124,2024-11-18,Completed,Mobile Unlimited,PayPal,1
+CUST-XEAOIG,CUST-P000QT,60,2024-11-19,Cancelled,VoIP Service,Direct Debit,2
+CUST-EXEQNO,CUST-ILOYXD,30,2024-11-20,Cancelled,Fiber 500 Mbps,Direct Debit,1
+CUST-OPNXAY,CUST-FTZKRZ,108,2024-11-21,Pending,Mobile Unlimited,Direct Debit,3
+CUST-XEPGKQ,CUST-EWSUXM,140,2024-11-22,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-BPHJVZ,CUST-STOSSL,38,2024-11-23,Cancelled,Fiber 500 Mbps,Credit Card,3
+CUST-OUZIWG,CUST-WWEDDL,64,2024-11-24,Completed,TV + Internet Bundle,Credit Card,1
+CUST-KQRFZU,CUST-MLJRYA,109,2024-11-25,Completed,Fiber 500 Mbps,PayPal,2
+CUST-CZEBZY,CUST-QNSNOK,144,2024-11-26,Pending,VoIP Service,Credit Card,3
+CUST-ZWFMGW,CUST-SBZJDH,37,2024-11-27,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-JRYHBJ,CUST-CAAFCG,120,2024-11-28,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-RJTSZX,CUST-YKOOWP,57,2024-11-29,Pending,Mobile Unlimited,PayPal,4
+CUST-VEVLIQ,CUST-SGYQGR,89,2024-11-30,Pending,Fiber 1 Gbps,PayPal,3
+CUST-UPKLKD,CUST-JUWXSS,31,2024-12-01,Completed,VoIP Service,PayPal,4
+CUST-QXXGVA,CUST-EOUSHW,127,2024-12-02,Completed,Mobile Unlimited,PayPal,3
+CUST-RDGUBY,CUST-FXVKSO,35,2024-12-03,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-HXSJVK,CUST-QXPWZY,149,2024-12-04,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-GFQRHF,CUST-VXUZWJ,79,2024-12-05,Completed,TV + Internet Bundle,PayPal,2
+CUST-DEYAQX,CUST-GGRPWF,75,2024-12-06,Completed,Mobile Unlimited,PayPal,2
+CUST-SHLAOY,CUST-ZPEKAH,125,2024-12-07,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-PSZYMR,CUST-DPCBFN,57,2024-12-08,Completed,VoIP Service,PayPal,3
+CUST-LUNPOJ,CUST-YFFCIN,144,2024-12-09,Pending,Fiber 1 Gbps,PayPal,3
+CUST-XBYQOS,CUST-ROSFWM,86,2024-12-10,Pending,Mobile Unlimited,Direct Debit,3
+CUST-FGCYMP,CUST-WLNZWL,149,2024-12-11,Pending,TV + Internet Bundle,Credit Card,1
+CUST-AJVPSF,CUST-XXVULS,34,2024-12-12,Pending,TV + Internet Bundle,PayPal,2
+CUST-TEFYPD,CUST-YLGFWS,57,2024-12-13,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-QSPYLW,CUST-YFBUOE,136,2024-12-14,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-JOZCOQ,CUST-GDWMSG,120,2024-12-15,Pending,Fiber 500 Mbps,PayPal,4
+CUST-TWUNQS,CUST-FXVKSO,139,2024-12-16,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-UBXTFH,CUST-CXRNKY,52,2024-12-17,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-TKDKRD,CUST-IHRANO,117,2024-12-18,Completed,VoIP Service,PayPal,2
+CUST-TVQQHZ,CUST-USJIBJ,80,2024-12-19,Cancelled,VoIP Service,Credit Card,4
+CUST-ITXWOY,CUST-UYMUEM,99,2024-12-20,Pending,Fiber 1 Gbps,PayPal,2
+CUST-GHAMSW,CUST-UMDOZP,88,2024-12-21,Pending,Fiber 500 Mbps,Direct Debit,2
+CUST-AJNVFL,CUST-DFTMBB,53,2024-12-22,Cancelled,TV + Internet Bundle,Direct Debit,1
+CUST-MJUWRE,CUST-PANJSA,83,2024-12-23,Completed,VoIP Service,Direct Debit,4
+CUST-LMCIZQ,CUST-IETYRQ,142,2024-12-24,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-MGYCTS,CUST-LFRXOC,84,2024-12-25,Completed,Fiber 500 Mbps,Credit Card,4
+CUST-PBYBEF,CUST-SRKLWS,131,2024-12-26,Cancelled,VoIP Service,PayPal,3
+CUST-RWKHRL,CUST-KTETHC,69,2024-12-27,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-UYKHYY,CUST-YFBUOE,130,2024-12-28,Pending,Mobile Unlimited,Credit Card,3
+CUST-CNIFYU,CUST-ZKGLOG,61,2024-12-29,Completed,VoIP Service,PayPal,1
+CUST-AZYWUU,CUST-DAYGHS,139,2024-12-30,Completed,Fiber 500 Mbps,Direct Debit,3
+CUST-OFVUWZ,CUST-TWRMNI,34,2024-12-31,Pending,VoIP Service,Credit Card,3
+CUST-AWZYRS,CUST-VSVZTH,79,2025-01-01,Pending,Fiber 500 Mbps,PayPal,4
+CUST-IYDRRK,CUST-YYTWPG,73,2025-01-02,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-JJTHZB,CUST-PUTJMU,67,2025-01-03,Completed,VoIP Service,Direct Debit,3
+CUST-WDRPTG,CUST-TAGWHT,70,2025-01-04,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-WKEKZQ,CUST-SDMHQJ,148,2025-01-05,Pending,Mobile Unlimited,PayPal,4
+CUST-PAEDKH,CUST-QCTBWO,73,2025-01-06,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-CCZVKW,CUST-MBGHAU,81,2025-01-07,Completed,Fiber 1 Gbps,Direct Debit,1
+CUST-EDDFYN,CUST-BFFQDK,79,2025-01-08,Completed,Mobile Unlimited,Direct Debit,3
+CUST-VEJMKF,CUST-AXUZAC,79,2025-01-09,Cancelled,Fiber 1 Gbps,Credit Card,1
+CUST-TRUGNJ,CUST-JTIFFT,56,2025-01-10,Completed,Fiber 1 Gbps,PayPal,3
+CUST-XFDVCZ,CUST-RBSQJY,146,2025-01-11,Pending,Mobile Unlimited,PayPal,2
+CUST-0ZPKNB,CUST-TZVJIZ,102,2025-01-12,Completed,Mobile Unlimited,Credit Card,1
+CUST-FYIBGL,CUST-OEUUYQ,62,2025-01-13,Cancelled,Fiber 1 Gbps,PayPal,2
+CUST-YCFFXE,CUST-CESZBM,49,2025-01-14,Completed,Mobile Unlimited,Credit Card,4
+CUST-VPSAYF,CUST-PGJYWE,26,2025-01-15,Cancelled,Fiber 500 Mbps,Direct Debit,1
+CUST-XPZJUF,CUST-XLRRUX,99,2025-01-16,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-ZNPBGW,CUST-DHRXZG,79,2025-01-17,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-AQABQF,CUST-QTNQOI,143,2025-01-18,Cancelled,Fiber 500 Mbps,Credit Card,1
+CUST-HORSJD,CUST-MJAYVB,44,2025-01-19,Completed,TV + Internet Bundle,Direct Debit,3
+CUST-GGOUTV,CUST-JNUKMM,100,2025-01-20,Pending,VoIP Service,Credit Card,3
+CUST-FASWYY,CUST-KNYRYH,83,2025-01-21,Pending,Mobile Unlimited,Credit Card,2
+CUST-IJWKCE,CUST-CAAFCG,35,2025-01-22,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-MLYGCF,CUST-VZVPBN,76,2025-01-23,Completed,TV + Internet Bundle,PayPal,3
+CUST-FEMNXA,CUST-HYEQJW,84,2025-01-24,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-BTBQKB,CUST-ULONWZ,82,2025-01-25,Cancelled,VoIP Service,Direct Debit,2
+CUST-HSYYKA,CUST-DEIEWN,82,2025-01-26,Cancelled,VoIP Service,Credit Card,3
+CUST-HMTBUJ,CUST-QBQDUW,119,2025-01-27,Completed,VoIP Service,PayPal,4
+CUST-FFQOBM,CUST-ATHDUR,90,2025-01-28,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-TPVUQL,CUST-USLJOR,36,2025-01-29,Pending,Fiber 1 Gbps,PayPal,3
+CUST-XNLVMW,CUST-FUKKFG,50,2025-01-30,Completed,Fiber 500 Mbps,PayPal,3
+CUST-GAMIHC,CUST-BSLHFL,114,2025-01-31,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-XBJTDB,CUST-NAWWUX,40,2025-02-01,Completed,Fiber 1 Gbps,Direct Debit,1
+CUST-IPVLAS,CUST-FUCXZL,131,2025-02-02,Pending,TV + Internet Bundle,Credit Card,1
+CUST-SGBWNA,CUST-XOVPIH,117,2025-02-03,Cancelled,VoIP Service,PayPal,2
+CUST-OHQNOB,CUST-ZRGZTN,98,2025-02-04,Pending,Mobile Unlimited,Direct Debit,2
+CUST-EROIXL,CUST-KJWNWH,78,2025-02-05,Completed,VoIP Service,PayPal,1
+CUST-OMAJRS,CUST-HTXTFQ,147,2025-02-06,Cancelled,VoIP Service,Credit Card,1
+CUST-FLTJIY,CUST-BZVZZQ,112,2025-02-07,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-IIORWL,CUST-UYMUEM,79,2025-02-08,Completed,Fiber 1 Gbps,Direct Debit,2
+CUST-VMHRWW,CUST-BCSN0D,50,2025-02-09,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-YZONYE,CUST-APYJNO,85,2025-02-10,Completed,VoIP Service,PayPal,1
+CUST-JAKMAA,CUST-VCRPEF,83,2025-02-11,Pending,Mobile Unlimited,Direct Debit,3
+CUST-ULJXVU,CUST-UCHEID,107,2025-02-12,Cancelled,VoIP Service,PayPal,1
+CUST-SEIMVV,CUST-VIQSLN,86,2025-02-13,Pending,Mobile Unlimited,Credit Card,2
+CUST-WWMIHR,CUST-DINJBI,84,2025-02-14,Completed,TV + Internet Bundle,Credit Card,3
+CUST-IUOWOB,CUST-TJWLZE,108,2025-02-15,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-FCAQSH,CUST-MQFIYA,54,2025-02-16,Completed,VoIP Service,PayPal,3
+CUST-LYKWLJ,CUST-FXVKSO,52,2025-02-17,Pending,Fiber 500 Mbps,PayPal,1
+CUST-CEQAHA,CUST-DCBCIF,129,2025-02-18,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-QIXPHI,CUST-CTECGK,34,2025-02-19,Pending,VoIP Service,Credit Card,1
+CUST-YWLPEO,CUST-SNEUBT,108,2025-02-20,Completed,Mobile Unlimited,Credit Card,1
+CUST-OOOXHI,CUST-GXVXFY,121,2025-02-21,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-KBZLBS,CUST-XOVPIH,86,2025-02-22,Pending,Mobile Unlimited,Credit Card,3
+CUST-GKSVYY,CUST-HCBSEU,133,2025-02-23,Pending,Mobile Unlimited,PayPal,3
+CUST-RXOSYP,CUST-YOXXWE,46,2025-02-24,Cancelled,Fiber 500 Mbps,PayPal,3
+CUST-JVCYWK,CUST-BUBJHF,26,2025-02-25,Cancelled,VoIP Service,PayPal,4
+CUST-TWZMEN,CUST-SVZRPL,133,2025-02-26,Pending,VoIP Service,Credit Card,1
+CUST-FRQYLG,CUST-WGQLZM,39,2025-02-27,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-CMTQJK,CUST-EYOSLA,21,2025-02-28,Completed,TV + Internet Bundle,Credit Card,4
+CUST-ASBUMF,CUST-EYOSLA,106,2025-03-01,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-RDWYBQ,CUST-TIEYQZ,121,2025-03-02,Cancelled,Fiber 500 Mbps,Direct Debit,3
+CUST-UYQWPK,CUST-ILFPOV,110,2025-03-03,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-IIIDVS,CUST-HLJBYT,22,2025-03-04,Cancelled,Mobile Unlimited,PayPal,2
+CUST-HCTHMU,CUST-FVYJPJ,31,2025-03-05,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-VHAPMA,CUST-WPIIDZ,38,2025-03-06,Completed,Mobile Unlimited,Direct Debit,2
+CUST-QCYRZC,CUST-GIOCRV,139,2025-03-07,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-QDSFFL,CUST-ISEQUK,62,2025-03-08,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-USKQDW,CUST-FRIDUZ,74,2025-03-09,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-BAHMPM,CUST-TRMNQN,89,2025-03-10,Cancelled,Mobile Unlimited,PayPal,2
+CUST-SWHNEW,CUST-NBXRAA,59,2025-03-11,Completed,VoIP Service,Credit Card,1
+CUST-DBXUTD,CUST-AXIFAK,76,2025-03-12,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-OTKVGS,CUST-EKJSXF,113,2025-03-13,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-TGHSWD,CUST-PKJHHR,25,2025-03-14,Completed,Fiber 500 Mbps,Direct Debit,3
+CUST-GMWYKI,CUST-ZUCXJW,76,2025-03-15,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-FWUBOS,CUST-PCKIPI,86,2025-03-16,Cancelled,TV + Internet Bundle,PayPal,4
+CUST-AKQNCO,CUST-LVVBXE,91,2025-03-17,Completed,Mobile Unlimited,Direct Debit,1
+CUST-JMDIXQ,CUST-UAUBYI,100,2025-03-18,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-IGSOAR,CUST-LQZSUN,97,2025-03-19,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-JRXJWG,CUST-TNVUED,60,2025-03-20,Completed,Mobile Unlimited,PayPal,4
+CUST-ETKANX,CUST-NWOXAQ,78,2025-03-21,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-XJMHBQ,CUST-CQHVME,141,2025-03-22,Cancelled,Fiber 500 Mbps,Direct Debit,3
+CUST-SYAPVX,CUST-GSMMUO,32,2025-03-23,Pending,Fiber 500 Mbps,PayPal,4
+CUST-YETOYB,CUST-NPUITQ,62,2025-03-24,Completed,VoIP Service,PayPal,1
+CUST-CFNPHH,CUST-TYKDYX,148,2025-03-25,Cancelled,VoIP Service,Credit Card,4
+CUST-BJTFNE,CUST-KODHFY,69,2025-03-26,Pending,VoIP Service,Credit Card,4
+CUST-GICCWE,CUST-EZGXJU,96,2025-03-27,Completed,Mobile Unlimited,Direct Debit,2
+CUST-QOPJRQ,CUST-INYAMS,48,2025-03-28,Completed,Fiber 500 Mbps,Direct Debit,3
+CUST-JVSLTH,CUST-HUZNHA,43,2025-03-29,Pending,VoIP Service,PayPal,1
+CUST-VGYLIO,CUST-ZBNMQD,75,2025-03-30,Completed,TV + Internet Bundle,Direct Debit,1
+CUST-AHOQYN,CUST-IIXSHB,63,2025-03-31,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-KCBVGZ,CUST-LRUTQF,116,2025-04-01,Pending,Mobile Unlimited,Direct Debit,1
+CUST-SCCYGR,CUST-SRCUIL,30,2025-04-02,Completed,VoIP Service,Direct Debit,4
+CUST-HUBEBA,CUST-RXSBMI,25,2025-04-03,Cancelled,VoIP Service,Direct Debit,3
+CUST-XIEUJB,CUST-YCNWDU,80,2025-04-04,Completed,VoIP Service,Direct Debit,3
+CUST-HRTVSK,CUST-RNJKQJ,102,2025-04-05,Completed,Fiber 500 Mbps,Direct Debit,4
+CUST-SYKHYT,CUST-VYAAJB,42,2025-04-06,Cancelled,VoIP Service,PayPal,4
+CUST-U0FSKJ,CUST-XLMHAO,65,2025-04-07,Pending,Fiber 1 Gbps,Direct Debit,4
+CUST-KNZXZM,CUST-NHGHGL,127,2025-04-08,Pending,TV + Internet Bundle,Direct Debit,1
+CUST-CGUUOP,CUST-ZQNUDE,81,2025-04-09,Completed,VoIP Service,Direct Debit,4
+CUST-AOUUMY,CUST-DICYMM,108,2025-04-10,Pending,VoIP Service,Credit Card,1
+CUST-OGMABA,CUST-FJCOQA,41,2025-04-11,Pending,Fiber 1 Gbps,Credit Card,1
+CUST-ZZZMJH,CUST-UGYEEN,117,2025-04-12,Pending,Fiber 500 Mbps,Credit Card,2
+CUST-WBSULP,CUST-TROHDX,26,2025-04-13,Completed,Fiber 500 Mbps,Credit Card,3
+CUST-LVNESF,CUST-APYJNO,93,2025-04-14,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-ZDQURU,CUST-WGWTPW,118,2025-04-15,Completed,Fiber 500 Mbps,Credit Card,4
+CUST-ANGKSR,CUST-SLNJSQ,39,2025-04-16,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-VPRPFZ,CUST-QIWXYG,143,2025-04-17,Completed,Fiber 1 Gbps,PayPal,3
+CUST-RLATVD,CUST-RPKSUW,37,2025-04-18,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-TCVAIV,CUST-VYLDOZ,31,2025-04-19,Completed,Fiber 1 Gbps,PayPal,1
+CUST-QGPHPJ,CUST-VYRHRH,39,2025-04-20,Pending,Fiber 500 Mbps,PayPal,4
+CUST-OTVQWD,CUST-GLBAGE,62,2025-04-21,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-HJLCCJ,CUST-IDVYOK,22,2025-04-22,Completed,Mobile Unlimited,PayPal,1
+CUST-ZVIXAY,CUST-HWATOI,102,2025-04-23,Completed,TV + Internet Bundle,Credit Card,3
+CUST-ZFQGLK,CUST-AXWNZB,28,2025-04-24,Completed,VoIP Service,Direct Debit,3
+CUST-ELAHMW,CUST-RBSQJY,27,2025-04-25,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-RIJTUV,CUST-XPETTM,53,2025-04-26,Completed,VoIP Service,Credit Card,1
+CUST-EUKNVE,CUST-UEGKDS,142,2025-04-27,Completed,Fiber 500 Mbps,PayPal,3
+CUST-ZKYQDX,CUST-BSIJPB,29,2025-04-28,Completed,VoIP Service,Credit Card,4
+CUST-ARNLIK,CUST-BXADMI,102,2025-04-29,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-DXJMYU,CUST-DICFBV,85,2025-04-30,Completed,Fiber 500 Mbps,Credit Card,3
+CUST-HCGAJP,CUST-MVLPBX,130,2025-05-01,Pending,Mobile Unlimited,PayPal,1
+CUST-RYHJWG,CUST-VKHWHK,53,2025-05-02,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-ZFDMFH,CUST-FSQAXB,109,2025-05-03,Pending,Mobile Unlimited,Credit Card,2
+CUST-JSOAMA,CUST-CGHARR,64,2025-05-04,Pending,Fiber 1 Gbps,Credit Card,2
+CUST-HXYHQP,CUST-RCZDAC,96,2025-05-05,Pending,Fiber 500 Mbps,Direct Debit,2
+CUST-GQAYMV,CUST-NWJEHT,52,2025-05-06,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-NJVCHO,CUST-VRZQZI,57,2025-05-07,Pending,Mobile Unlimited,Direct Debit,4
+CUST-VWVKVE,CUST-YUVQYY,74,2025-05-08,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-VQKEFS,CUST-MLJRYA,90,2025-05-09,Cancelled,VoIP Service,Direct Debit,2
+CUST-PRGCAU,CUST-JJVZUL,146,2025-05-10,Completed,VoIP Service,Direct Debit,2
+CUST-LZBQEB,CUST-HSADJP,77,2025-05-11,Pending,VoIP Service,PayPal,4
+CUST-RR0NC0,CUST-RKAYXK,104,2025-05-12,Completed,Mobile Unlimited,PayPal,2
+CUST-UFQEIM,CUST-CJGEMY,37,2025-05-13,Cancelled,VoIP Service,PayPal,2
+CUST-KMIUSK,CUST-QVJCQL,67,2025-05-14,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-MRFZTW,CUST-DPCBFN,131,2025-05-15,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-RUETT0,CUST-JUWXSS,118,2025-05-16,Pending,Mobile Unlimited,PayPal,2
+CUST-UBBVIL,CUST-RPKSUW,144,2025-05-17,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-XVCFEM,CUST-IJFSYZ,109,2025-05-18,Cancelled,Mobile Unlimited,PayPal,1
+CUST-WZIBYG,CUST-PUTJMU,85,2025-05-19,Cancelled,TV + Internet Bundle,Direct Debit,4
+CUST-ZUHIWS,CUST-POPCVV,104,2025-05-20,Completed,VoIP Service,Credit Card,4
+CUST-NEWHHF,CUST-QCTBWO,35,2025-05-21,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-MSXOVP,CUST-RPBXIF,102,2025-05-22,Cancelled,VoIP Service,PayPal,3
+CUST-UAIOTA,CUST-KVGKCD,105,2025-05-23,Completed,VoIP Service,Direct Debit,4
+CUST-WWBBLH,CUST-AMKBQV,63,2025-05-24,Cancelled,TV + Internet Bundle,PayPal,1
+CUST-ZZMGGT,CUST-TKCMRC,123,2025-05-25,Pending,TV + Internet Bundle,PayPal,1
+CUST-CQNJYF,CUST-CZNFXM,87,2025-05-26,Cancelled,Fiber 500 Mbps,Credit Card,1
+CUST-COJDLH,CUST-WKKHJY,83,2025-05-27,Completed,Fiber 500 Mbps,PayPal,1
+CUST-ZUJDMB,CUST-KCKQYE,142,2025-05-28,Completed,VoIP Service,Direct Debit,2
+CUST-QDICCK,CUST-IXUGVN,38,2025-05-29,Cancelled,TV + Internet Bundle,Direct Debit,3
+CUST-DUQGQK,CUST-ITUGIR,28,2025-05-30,Pending,VoIP Service,Credit Card,2
+CUST-WDROMV,CUST-IHTTWQ,101,2025-05-31,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-OLNACY,CUST-UNYFEH,73,2025-06-01,Cancelled,Fiber 500 Mbps,Credit Card,2
+CUST-VYRDKK,CUST-DBCXZG,128,2025-06-02,Cancelled,Fiber 1 Gbps,PayPal,1
+CUST-EYCLEU,CUST-PLXEDI,136,2025-06-03,Completed,Fiber 500 Mbps,Credit Card,2
+CUST-DBIGUF,CUST-FSZTAW,108,2025-06-04,Completed,VoIP Service,Credit Card,3
+CUST-FWSWDW,CUST-BIVXZS,28,2025-06-05,Completed,VoIP Service,Direct Debit,2
+CUST-KKDVPW,CUST-AZTRMJ,140,2025-06-06,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-EHGNDU,CUST-RMKAGA,109,2025-06-07,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-YFPTYQ,CUST-OAEFXF,31,2025-06-08,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-NPDVHU,CUST-EEBGRX,97,2025-06-09,Pending,VoIP Service,PayPal,3
+CUST-FSJTOW,CUST-NWOXAQ,43,2025-06-10,Pending,TV + Internet Bundle,Credit Card,3
+CUST-CNPDPM,CUST-XOVPIH,121,2025-06-11,Pending,Fiber 1 Gbps,PayPal,4
+CUST-QQVOZM,CUST-AVTXAG,139,2025-06-12,Completed,Fiber 500 Mbps,Direct Debit,4
+CUST-XZBJGC,CUST-CXRNKY,41,2025-06-13,Pending,Fiber 1 Gbps,PayPal,2
+CUST-TJZWFQ,CUST-UNYUIR,140,2025-06-14,Pending,Fiber 1 Gbps,Direct Debit,3
+CUST-PGGXCT,CUST-URPHGZ,55,2025-06-15,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-OYBJSK,CUST-VMJJZX,92,2025-06-16,Cancelled,Mobile Unlimited,PayPal,2
+CUST-MMWKYG,CUST-JXAFMH,109,2025-06-17,Pending,Fiber 500 Mbps,PayPal,1
+CUST-RWJGSY,CUST-VDOXYT,61,2025-06-18,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-MYTSR0,CUST-ASMOPP,147,2025-06-19,Cancelled,Fiber 500 Mbps,Credit Card,3
+CUST-CJCKUS,CUST-LTXPIN,88,2025-06-20,Pending,VoIP Service,Credit Card,2
+CUST-FVHXLJ,CUST-RCXLSW,130,2025-06-21,Completed,Mobile Unlimited,Credit Card,2
+CUST-EYEDZP,CUST-MBGHAU,71,2025-06-22,Cancelled,VoIP Service,Direct Debit,1
+CUST-ARBEAA,CUST-PXKUMZ,134,2025-06-23,Pending,Mobile Unlimited,Credit Card,3
+CUST-ADJFZP,CUST-SYEZYZ,98,2025-06-24,Pending,TV + Internet Bundle,Direct Debit,2
+CUST-ZTUPJS,CUST-QJXXNX,39,2025-06-25,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-FLFDUR,CUST-DCEHRQ,78,2025-06-26,Completed,Fiber 500 Mbps,PayPal,1
+CUST-FLNTSK,CUST-QHIKHK,72,2025-06-27,Cancelled,Fiber 500 Mbps,Direct Debit,3
+CUST-NBQBGF,CUST-MDWCMT,134,2025-06-28,Cancelled,TV + Internet Bundle,Credit Card,2
+CUST-ISIPHW,CUST-WWRAUT,91,2025-06-29,Pending,TV + Internet Bundle,Credit Card,3
+CUST-RVCIEQ,CUST-QZAVXJ,143,2025-06-30,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-ITOYGL,CUST-OOEKPO,80,2025-07-01,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-FAOLQJ,CUST-TCORWE,25,2025-07-02,Completed,VoIP Service,PayPal,2
+CUST-KGHAPO,CUST-MDJJFP,29,2025-07-03,Cancelled,TV + Internet Bundle,Direct Debit,2
+CUST-RCJIYS,CUST-ZELJWU,59,2025-07-04,Pending,Mobile Unlimited,PayPal,1
+CUST-SMZIBI,CUST-CRVNWM,33,2025-07-05,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-VWDIQB,CUST-XWKZAX,44,2025-07-06,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-IQOUEM,CUST-RBSQJY,36,2025-07-07,Completed,Fiber 500 Mbps,PayPal,2
+CUST-LYEAJB,CUST-FUKKFG,116,2025-07-08,Cancelled,VoIP Service,PayPal,1
+CUST-XZLVYX,CUST-AGWDZW,86,2025-07-09,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-SJPXNV,CUST-BSWULD,107,2025-07-10,Cancelled,TV + Internet Bundle,Direct Debit,4
+CUST-DJOLSA,CUST-YLGFWS,51,2025-07-11,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-HPHCVC,CUST-NAHFVZ,134,2025-07-12,Completed,TV + Internet Bundle,Credit Card,3
+CUST-CSROQX,CUST-YLGFWS,119,2025-07-13,Completed,Fiber 1 Gbps,PayPal,4
+CUST-MTJGBM,CUST-YTQGXK,40,2025-07-14,Completed,Fiber 1 Gbps,Direct Debit,1
+CUST-XEFRZZ,CUST-XSJAAL,37,2025-07-15,Pending,TV + Internet Bundle,Credit Card,2
+CUST-QYBDRD,CUST-ZWFYMS,52,2025-07-16,Completed,Mobile Unlimited,Credit Card,2
+CUST-PZQLAA,CUST-WTDDJW,118,2025-07-17,Pending,Mobile Unlimited,Credit Card,1
+CUST-UILVAK,CUST-KJWNWH,109,2025-07-18,Pending,Mobile Unlimited,Credit Card,3
+CUST-FCIBFD,CUST-YCNWDU,91,2025-07-19,Completed,Mobile Unlimited,Direct Debit,4
+CUST-PKWZUS,CUST-LUXHPK,72,2025-07-20,Cancelled,VoIP Service,Credit Card,1
+CUST-GNQMJD,CUST-MDBFBA,134,2025-07-21,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-OMFXJU,CUST-PHAQMD,89,2025-07-22,Cancelled,Fiber 1 Gbps,PayPal,2
+CUST-EGOYVH,CUST-THKGFA,25,2025-07-23,Completed,VoIP Service,Direct Debit,3
+CUST-SFAXWD,CUST-XDMPUD,88,2025-07-24,Cancelled,VoIP Service,PayPal,2
+CUST-MSWHKL,CUST-GSWURI,137,2025-07-25,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-FZGLTI,CUST-WHAKCY,56,2025-07-26,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-KMWZXH,CUST-BDBPAG,42,2025-07-27,Completed,TV + Internet Bundle,PayPal,3
+CUST-ALILHN,CUST-YAHBTE,123,2025-07-28,Cancelled,Mobile Unlimited,Direct Debit,4
+CUST-WXVWXC,CUST-QCTBWO,123,2025-07-29,Completed,TV + Internet Bundle,Credit Card,1
+CUST-MIXHIB,CUST-NANNCD,55,2025-07-30,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-JGJQNX,CUST-BVHVQR,91,2025-07-31,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-IHTYNN,CUST-ENIBRB,111,2025-08-01,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-TESBVQ,CUST-KTLVBE,65,2025-08-02,Pending,Fiber 500 Mbps,PayPal,2
+CUST-DWPNVB,CUST-YUBLAQ,103,2025-08-03,Pending,Mobile Unlimited,PayPal,2
+CUST-HXQUWI,CUST-HRYFVC,21,2025-08-04,Completed,VoIP Service,Direct Debit,4
+CUST-NEGJJV,CUST-DHRXZG,140,2025-08-05,Completed,TV + Internet Bundle,PayPal,2
+CUST-JVQKEG,CUST-WHAKCY,65,2025-08-06,Completed,Fiber 500 Mbps,PayPal,1
+CUST-XKEXHJ,CUST-LGEKUC,114,2025-08-07,Completed,Fiber 500 Mbps,PayPal,4
+CUST-KXFIEC,CUST-TYEIMG,134,2025-08-08,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-Q0LJBI,CUST-LBLNML,31,2025-08-09,Cancelled,Fiber 500 Mbps,Credit Card,1
+CUST-KBRCEG,CUST-MB0ZPM,114,2025-08-10,Pending,Fiber 500 Mbps,PayPal,4
+CUST-KVECYH,CUST-GSMMUO,53,2025-08-11,Cancelled,VoIP Service,Direct Debit,3
+CUST-FHUBCQ,CUST-ECEQVP,122,2025-08-12,Completed,Mobile Unlimited,Direct Debit,3
+CUST-SCAIWU,CUST-DTNBYJ,73,2025-08-13,Cancelled,VoIP Service,Credit Card,1
+CUST-HBSFEJ,CUST-HPPBTX,123,2025-08-14,Cancelled,Mobile Unlimited,PayPal,2
+CUST-NYWUSP,CUST-SOSHLN,32,2025-08-15,Cancelled,TV + Internet Bundle,PayPal,1
+CUST-WKSLKP,CUST-GUOVKX,133,2025-08-16,Completed,VoIP Service,PayPal,2
+CUST-UBFDJU,CUST-MGPXOM,131,2025-08-17,Completed,VoIP Service,Credit Card,3
+CUST-WXZUVQ,CUST-KODHFY,138,2025-08-18,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-XHGUUZ,CUST-AXUZAC,106,2025-08-19,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-DABMUY,CUST-YAHBTE,99,2025-08-20,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-KQAFWF,CUST-IBSMEN,78,2025-08-21,Pending,Mobile Unlimited,Credit Card,4
+CUST-LBPZGN,CUST-FMVDWA,87,2025-08-22,Pending,VoIP Service,Credit Card,1
+CUST-PJBKIL,CUST-BYOGRN,85,2025-08-23,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-NJPEUR,CUST-GWVHTV,68,2025-08-24,Cancelled,Fiber 1 Gbps,Credit Card,3
+CUST-PGJVUP,CUST-GLXSEC,58,2025-08-25,Completed,Mobile Unlimited,PayPal,1
+CUST-FUSNVD,CUST-HUZNHA,101,2025-08-26,Cancelled,Mobile Unlimited,PayPal,4
+CUST-GXSQWN,CUST-ORAMDR,97,2025-08-27,Completed,VoIP Service,Credit Card,2
+CUST-FEZREI,CUST-YIKVOH,90,2025-08-28,Pending,VoIP Service,PayPal,2
+CUST-YJGTLP,CUST-LFRXOC,33,2025-08-29,Cancelled,TV + Internet Bundle,Credit Card,2
+CUST-MSZQXQ,CUST-GKDBUO,147,2025-08-30,Pending,Fiber 1 Gbps,Direct Debit,3
+CUST-XATTZX,CUST-VHGQYQ,24,2025-08-31,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-UGJEVD,CUST-CESZBM,83,2025-09-01,Pending,TV + Internet Bundle,Direct Debit,1
+CUST-VLKQTO,CUST-TFSTTN,65,2025-09-02,Cancelled,Mobile Unlimited,PayPal,4
+CUST-KXAACI,CUST-ETTPKF,134,2025-09-03,Completed,TV + Internet Bundle,Credit Card,3
+CUST-HZZOHB,CUST-QFCPBF,120,2025-09-04,Pending,Fiber 1 Gbps,PayPal,1
+CUST-UKAVDL,CUST-LMOAQJ,43,2025-09-05,Pending,Mobile Unlimited,PayPal,2
+CUST-AANPVZ,CUST-ZAZFRJ,40,2025-09-06,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-AEXSBZ,CUST-UNYUIR,31,2025-09-07,Completed,VoIP Service,PayPal,2
+CUST-YVZZHN,CUST-QFCPBF,21,2025-09-08,Completed,Fiber 500 Mbps,PayPal,1
+CUST-ZPXWIQ,CUST-THKGFA,143,2025-09-09,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-CWMEHB,CUST-ILFPOV,143,2025-09-10,Pending,Mobile Unlimited,Credit Card,4
+CUST-WPGUMF,CUST-HBFRYF,123,2025-09-11,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-AGZYUQ,CUST-UHVSCI,25,2025-09-12,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-ARWOZY,CUST-KXTAXT,141,2025-09-13,Pending,TV + Internet Bundle,PayPal,1
+CUST-AAMZGD,CUST-GBVNSG,127,2025-09-14,Completed,VoIP Service,PayPal,1
+CUST-VIKLEY,CUST-COZPTL,73,2025-09-15,Pending,TV + Internet Bundle,Credit Card,4
+CUST-XWWTYG,CUST-DKUZEJ,137,2025-09-16,Pending,VoIP Service,Credit Card,2
+CUST-AMTQXY,CUST-GBHHNI,109,2025-09-17,Pending,VoIP Service,Credit Card,4
+CUST-GYBLKV,CUST-UDVHKX,72,2025-09-18,Cancelled,Mobile Unlimited,Direct Debit,4
+CUST-JAPPDT,CUST-GBVNSG,21,2025-09-19,Cancelled,Fiber 1 Gbps,PayPal,1
+CUST-ELHQXJ,CUST-TMWVFN,100,2025-09-20,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-GCOUJS,CUST-IOWJHS,111,2025-09-21,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-PHIJZP,CUST-IJJTON,61,2025-09-22,Completed,TV + Internet Bundle,Direct Debit,4
+CUST-QHJBQT,CUST-SSUBQM,65,2025-09-23,Completed,Fiber 500 Mbps,PayPal,4
+CUST-ULIDIM,CUST-UUTJQI,35,2025-09-24,Completed,VoIP Service,Direct Debit,2
+CUST-NJSWJE,CUST-RDXCCI,97,2025-09-25,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-QFQCWV,CUST-AMKBQV,107,2025-09-26,Completed,Fiber 1 Gbps,Direct Debit,2
+CUST-PLOSEB,CUST-BGEGKK,136,2025-09-27,Cancelled,Fiber 1 Gbps,PayPal,4
+CUST-NWIHBE,CUST-DICYMM,51,2025-09-28,Pending,TV + Internet Bundle,PayPal,3
+CUST-GNYIMC,CUST-KANEGW,22,2025-09-29,Cancelled,Fiber 1 Gbps,Direct Debit,4
+CUST-MNPKEF,CUST-VYAAJB,133,2025-09-30,Completed,Mobile Unlimited,Credit Card,1
+CUST-AFOSQE,CUST-FWLXFS,32,2025-10-01,Completed,VoIP Service,Credit Card,4
+CUST-QAOCXA,CUST-WWEDDL,21,2025-10-02,Pending,Fiber 1 Gbps,Direct Debit,3
+CUST-PZHQT0,CUST-HCFJGV,135,2025-10-03,Pending,Fiber 1 Gbps,Credit Card,4
+CUST-OZOCGZ,CUST-IIXSHB,120,2025-10-04,Pending,VoIP Service,Direct Debit,3
+CUST-GVBJMQ,CUST-LLHKLP,66,2025-10-05,Pending,TV + Internet Bundle,Direct Debit,2
+CUST-OSGWPN,CUST-FWLXFS,149,2025-10-06,Cancelled,VoIP Service,Direct Debit,1
+CUST-LURQDL,CUST-GTAOTB,125,2025-10-07,Pending,VoIP Service,Direct Debit,2
+CUST-LFOPSO,CUST-JNUKMM,120,2025-10-08,Completed,Mobile Unlimited,PayPal,1
+CUST-ORFXWP,CUST-ROSFWM,36,2025-10-09,Completed,TV + Internet Bundle,PayPal,2
+CUST-VSEFUX,CUST-KHUFYA,113,2025-10-10,Cancelled,TV + Internet Bundle,PayPal,4
+CUST-YQEZFP,CUST-SGLXKI,61,2025-10-11,Cancelled,TV + Internet Bundle,PayPal,1
+CUST-DQUXGM,CUST-MPGQMJ,47,2025-10-12,Cancelled,Mobile Unlimited,PayPal,2
+CUST-HCXMCS,CUST-ZQZPBR,61,2025-10-13,Pending,VoIP Service,Credit Card,4
+CUST-UAEUCL,CUST-YMRJRL,59,2025-10-14,Cancelled,VoIP Service,Direct Debit,2
+CUST-VVBTXS,CUST-KCKQYE,23,2025-10-15,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-UXSFMI,CUST-RYWPQT,45,2025-10-16,Pending,TV + Internet Bundle,Credit Card,1
+CUST-LGRPGR,CUST-VRZQZI,80,2025-10-17,Cancelled,VoIP Service,Credit Card,4
+CUST-MMGJOB,CUST-SRCUIL,83,2025-10-18,Completed,Mobile Unlimited,PayPal,2
+CUST-FMQXKK,CUST-KIPWRP,82,2025-10-19,Completed,Fiber 500 Mbps,PayPal,3
+CUST-JYPTSY,CUST-THSYAW,54,2025-10-20,Completed,Mobile Unlimited,PayPal,3
+CUST-UYFTRP,CUST-MYHYST,38,2025-10-21,Pending,Fiber 1 Gbps,PayPal,2
+CUST-QLCBIL,CUST-LGEKUC,54,2025-10-22,Pending,VoIP Service,Credit Card,1
+CUST-TPXRHO,CUST-WPIIDZ,93,2025-10-23,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-WPCTEX,CUST-SVZRPL,88,2025-10-24,Completed,VoIP Service,Direct Debit,1
+CUST-HVTNIH,CUST-ZELJWU,106,2025-10-25,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-ZTSMCX,CUST-BDBPAG,75,2025-10-26,Cancelled,Fiber 500 Mbps,Credit Card,3
+CUST-YICRTN,CUST-UASKJU,138,2025-10-27,Pending,Fiber 500 Mbps,Credit Card,2
+CUST-ICKXEA,CUST-NANNCD,113,2025-10-28,Pending,TV + Internet Bundle,PayPal,2
+CUST-PMOQLQ,CUST-QWBXEZ,27,2025-10-29,Completed,Mobile Unlimited,PayPal,4
+CUST-MKAWWS,CUST-EQKLUA,92,2025-10-30,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-IJDDYH,CUST-LKUZJT,111,2025-10-31,Completed,TV + Internet Bundle,Credit Card,3
+CUST-DYEAEV,CUST-XHZIWL,121,2025-11-01,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-NMPIAT,CUST-IIIRYY,49,2025-11-02,Cancelled,VoIP Service,PayPal,4
+CUST-WDESCX,CUST-LVKJTS,107,2025-11-03,Cancelled,Mobile Unlimited,Credit Card,3
+CUST-ZRAYIC,CUST-OOEKPO,106,2025-11-04,Pending,Fiber 1 Gbps,Direct Debit,1
+CUST-KABTOM,CUST-PZGBXB,117,2025-11-05,Completed,Mobile Unlimited,Credit Card,3
+CUST-UNPHGE,CUST-ISBGAR,72,2025-11-06,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-DUPUDI,CUST-ZMBPFR,63,2025-11-07,Pending,VoIP Service,Credit Card,2
+CUST-ODIDQO,CUST-QDCGMD,112,2025-11-08,Cancelled,Fiber 1 Gbps,PayPal,2
+CUST-KOAIHR,CUST-UXWZYZ,29,2025-11-09,Cancelled,TV + Internet Bundle,PayPal,3
+CUST-QLHYUQ,CUST-QCESUJ,43,2025-11-10,Completed,Mobile Unlimited,Direct Debit,3
+CUST-NUQTFR,CUST-DTXMMO,79,2025-11-11,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-UEISLO,CUST-YPMPDM,28,2025-11-12,Completed,Mobile Unlimited,Direct Debit,4
+CUST-HZXIWD,CUST-ODKJCE,87,2025-11-13,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-LTSHOG,CUST-SBZJDH,149,2025-11-14,Completed,TV + Internet Bundle,PayPal,4
+CUST-DRCQQI,CUST-TKZFVN,72,2025-11-15,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-OWTPQR,CUST-WMUPCF,53,2025-11-16,Cancelled,VoIP Service,Direct Debit,4
+CUST-YJWZSP,CUST-UWATBM,108,2025-11-17,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-PXJHVP,CUST-RPKSUW,64,2025-11-18,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-DRXSMB,CUST-XKXLFE,105,2025-11-19,Cancelled,Fiber 500 Mbps,PayPal,3
+CUST-MKSSFK,CUST-NANNCD,81,2025-11-20,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-QCLDFZ,CUST-XSJAAL,76,2025-11-21,Pending,Mobile Unlimited,Direct Debit,2
+CUST-PIPYAK,CUST-DHOOEP,123,2025-11-22,Cancelled,Fiber 500 Mbps,Direct Debit,3
+CUST-LJNPXA,CUST-GCWPHU,31,2025-11-23,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-MGTBIX,CUST-LLNPCC,80,2025-11-24,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-KWIMTF,CUST-NEVUGZ,84,2025-11-25,Cancelled,VoIP Service,PayPal,4
+CUST-NBKOQL,CUST-WMUPCF,91,2025-11-26,Completed,Fiber 500 Mbps,Credit Card,3
+CUST-HXCEXT,CUST-XSDDEV,138,2025-11-27,Completed,VoIP Service,Direct Debit,1
+CUST-JXTAAV,CUST-GQFWOI,123,2025-11-28,Pending,Fiber 1 Gbps,Credit Card,1
+CUST-ECZXQC,CUST-ILFPOV,119,2025-11-29,Completed,TV + Internet Bundle,Direct Debit,2
+CUST-QLWRQH,CUST-HCNVCE,109,2025-11-30,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-MQOFOD,CUST-NEVUGZ,29,2025-12-01,Cancelled,Fiber 500 Mbps,Credit Card,3
+CUST-INIHMI,CUST-VXLDWN,48,2025-12-02,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-GDVTQL,CUST-LVKJTS,104,2025-12-03,Pending,VoIP Service,Direct Debit,3
+CUST-HPPMSD,CUST-DGYZFL,132,2025-12-04,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-UULEGF,CUST-VXUZWJ,64,2025-12-05,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-ZMPNQX,CUST-PFSMEZ,142,2025-12-06,Pending,Mobile Unlimited,Credit Card,3
+CUST-YXBHTW,CUST-YPMPDM,76,2025-12-07,Completed,TV + Internet Bundle,Credit Card,1
+CUST-QJPEQK,CUST-DGYZFL,101,2025-12-08,Cancelled,VoIP Service,Direct Debit,3
+CUST-CRGCZX,CUST-HAFUDN,119,2025-12-09,Completed,Mobile Unlimited,Credit Card,2
+CUST-EPDMVT,CUST-CQYRMJ,142,2025-12-10,Cancelled,Fiber 500 Mbps,Credit Card,1
+CUST-CLNXNK,CUST-UHMZOE,22,2025-12-11,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-ESEDCI,CUST-LVKJTS,56,2025-12-12,Completed,VoIP Service,Credit Card,2
+CUST-AHPDGG,CUST-YVRSVC,95,2025-12-13,Completed,Fiber 500 Mbps,Direct Debit,4
+CUST-RKDHVD,CUST-FWYGPK,100,2025-12-14,Pending,TV + Internet Bundle,PayPal,1
+CUST-FBKLHU,CUST-TXHODE,50,2025-12-15,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-GHWWEZ,CUST-NAHFVZ,126,2025-12-16,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-JASIBH,CUST-NRBIXS,132,2025-12-17,Completed,VoIP Service,PayPal,3
+CUST-BRUNWL,CUST-YPD0A0,144,2025-12-18,Completed,VoIP Service,Direct Debit,3
+CUST-UMXUUK,CUST-XWBVKL,139,2025-12-19,Cancelled,VoIP Service,Direct Debit,2
+CUST-KDBJGM,CUST-PKJHHR,135,2025-12-20,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-MDYFXR,CUST-TRMNQN,46,2025-12-21,Pending,Fiber 500 Mbps,Direct Debit,1
+CUST-ZOAAZF,CUST-OUJYUT,124,2025-12-22,Cancelled,Fiber 1 Gbps,Credit Card,1
+CUST-DNPKAA,CUST-GDNVQW,131,2025-12-23,Pending,Mobile Unlimited,Direct Debit,4
+CUST-STFXJR,CUST-PBYTWS,61,2025-12-24,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-RUXGEP,CUST-PZDYIP,80,2025-12-25,Completed,VoIP Service,Credit Card,3
+CUST-JWPUFY,CUST-XKXLFE,55,2025-12-26,Cancelled,VoIP Service,PayPal,3
+CUST-OFLACD,CUST-XOHLVD,34,2025-12-27,Cancelled,Fiber 1 Gbps,Credit Card,2
+CUST-QDILUD,CUST-RCXLSW,105,2025-12-28,Completed,Fiber 500 Mbps,PayPal,1
+CUST-FHFWIH,CUST-QNSNOK,84,2025-12-29,Completed,Mobile Unlimited,PayPal,2
+CUST-MT0PMJ,CUST-ODKJCE,26,2025-12-30,Completed,VoIP Service,PayPal,4
+CUST-WCPNBE,CUST-VHGQYQ,91,2025-12-31,Completed,TV + Internet Bundle,Direct Debit,1
+CUST-BJVWBF,CUST-HQBOSX,20,2026-01-01,Completed,TV + Internet Bundle,Credit Card,3
+CUST-XIEUYK,CUST-YEDYUG,73,2026-01-02,Pending,Mobile Unlimited,Credit Card,3
+CUST-ENSHSB,CUST-RJLPNI,52,2026-01-03,Completed,Mobile Unlimited,Direct Debit,1
+CUST-TEIMTG,CUST-LLYVGI,100,2026-01-04,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-KFVIQC,CUST-MGGOBL,51,2026-01-05,Pending,Mobile Unlimited,PayPal,4
+CUST-YDPXQY,CUST-RCXLSW,122,2026-01-06,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-LKBOGE,CUST-OILAIL,30,2026-01-07,Pending,Mobile Unlimited,Credit Card,3
+CUST-MCIJZB,CUST-ZZTIIZ,142,2026-01-08,Pending,Mobile Unlimited,Credit Card,1
+CUST-FVWRHN,CUST-JBXUJU,44,2026-01-09,Completed,Fiber 1 Gbps,Direct Debit,4
+CUST-NYRCVQ,CUST-WWYGFY,46,2026-01-10,Cancelled,VoIP Service,Credit Card,3
+CUST-UKBPYR,CUST-N0U0PZ,119,2026-01-11,Cancelled,VoIP Service,Direct Debit,3
+CUST-ESSUHD,CUST-FWLXFS,74,2026-01-12,Completed,Mobile Unlimited,Direct Debit,2
+CUST-ZXYKVU,CUST-MFVDKL,65,2026-01-13,Pending,VoIP Service,Credit Card,2
+CUST-UVWBLL,CUST-HFOUOI,147,2026-01-14,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-UMCEVT,CUST-UDZBRN,83,2026-01-15,Completed,TV + Internet Bundle,Credit Card,1
+CUST-XDJNYV,CUST-QXQMUP,126,2026-01-16,Completed,VoIP Service,PayPal,2
+CUST-FYUVMN,CUST-YOXXWE,42,2026-01-17,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-IONPPK,CUST-LUNGKE,87,2026-01-18,Cancelled,Fiber 500 Mbps,PayPal,2
+CUST-JKOIJN,CUST-PSNQAF,130,2026-01-19,Completed,Mobile Unlimited,Credit Card,4
+CUST-RQRVHU,CUST-ITUGIR,146,2026-01-20,Pending,VoIP Service,Credit Card,3
+CUST-DBXJWT,CUST-DICYMM,146,2026-01-21,Cancelled,Fiber 1 Gbps,PayPal,3
+CUST-MJVMKX,CUST-NAWWUX,26,2026-01-22,Completed,Mobile Unlimited,PayPal,2
+CUST-IKAXKQ,CUST-KDYFRH,65,2026-01-23,Completed,Fiber 1 Gbps,PayPal,1
+CUST-KCNUTK,CUST-DICYMM,69,2026-01-24,Cancelled,TV + Internet Bundle,Direct Debit,4
+CUST-ODJCOV,CUST-TFYDJK,71,2026-01-25,Cancelled,VoIP Service,PayPal,3
+CUST-LNCIER,CUST-KODHFY,41,2026-01-26,Cancelled,VoIP Service,Credit Card,2
+CUST-RGDDTT,CUST-SAUQNR,119,2026-01-27,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-CXMOWN,CUST-GUEGXB,51,2026-01-28,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-DBBZZO,CUST-BNFQTK,52,2026-01-29,Pending,Fiber 1 Gbps,PayPal,3
+CUST-JBLBZZ,CUST-N0U0PZ,50,2026-01-30,Cancelled,Mobile Unlimited,Direct Debit,2
+CUST-ZUAOBS,CUST-DNVFKA,40,2026-01-31,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-YEFDVT,CUST-XKDTLI,57,2026-02-01,Pending,Fiber 1 Gbps,Credit Card,1
+CUST-IKANTJ,CUST-0ZCJGS,84,2026-02-02,Completed,Fiber 500 Mbps,Credit Card,1
+CUST-HHXMWQ,CUST-PHAQMD,62,2026-02-03,Cancelled,Fiber 1 Gbps,PayPal,4
+CUST-PVGXVP,CUST-MQFIYA,147,2026-02-04,Cancelled,Fiber 1 Gbps,PayPal,3
+CUST-NJZUSQ,CUST-HELWOU,60,2026-02-05,Cancelled,VoIP Service,Credit Card,2
+CUST-CKOMHP,CUST-AVTXAG,65,2026-02-06,Pending,VoIP Service,Credit Card,3
+CUST-GVJDVA,CUST-GOZBZA,99,2026-02-07,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-VJBNTA,CUST-AEAJZH,135,2026-02-08,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-VONYPC,CUST-ALLCPB,50,2026-02-09,Cancelled,Fiber 1 Gbps,Credit Card,3
+CUST-SWMTFK,CUST-MAKZJQ,132,2026-02-10,Completed,TV + Internet Bundle,PayPal,4
+CUST-XIJCBR,CUST-AVTXAG,32,2026-02-11,Completed,Mobile Unlimited,Credit Card,3
+CUST-XFIDVS,CUST-AUVAWV,126,2026-02-12,Completed,TV + Internet Bundle,PayPal,1
+CUST-SHDOGL,CUST-UZIWCW,146,2026-02-13,Pending,VoIP Service,Direct Debit,2
+CUST-PQXCYY,CUST-LZVNVQ,62,2026-02-14,Completed,Fiber 500 Mbps,Credit Card,3
+CUST-DNTIES,CUST-GHYSTV,28,2026-02-15,Pending,VoIP Service,Direct Debit,1
+CUST-TITAAY,CUST-QZGIRM,113,2026-02-16,Pending,VoIP Service,PayPal,2
+CUST-MDPNVB,CUST-VXLDWN,91,2026-02-17,Pending,VoIP Service,Credit Card,3
+CUST-GYUCUG,CUST-ZELJWU,65,2026-02-18,Pending,Mobile Unlimited,Credit Card,4
+CUST-OPMBGS,CUST-HQBOSX,45,2026-02-19,Pending,Mobile Unlimited,PayPal,4
+CUST-XCERZH,CUST-SCFWBC,126,2026-02-20,Completed,VoIP Service,Direct Debit,3
+CUST-KACIOZ,CUST-OZLJLY,99,2026-02-21,Cancelled,Fiber 1 Gbps,Credit Card,3
+CUST-EHIZLT,CUST-ZSOHLI,84,2026-02-22,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-IOJPZL,CUST-UMDOZP,145,2026-02-23,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-KAQNAE,CUST-ZBNMQD,81,2026-02-24,Completed,Fiber 500 Mbps,Credit Card,4
+CUST-HPUAPU,CUST-MVLPBX,136,2026-02-25,Pending,Mobile Unlimited,Direct Debit,3
+CUST-LBPEIS,CUST-ERJCBN,79,2026-02-26,Completed,VoIP Service,PayPal,4
+CUST-HCMUMX,CUST-ZTTLAD,25,2026-02-27,Completed,Fiber 500 Mbps,PayPal,2
+CUST-PMESJI,CUST-COTGVV,92,2026-02-28,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-QTJHLX,CUST-XTFQME,27,2026-03-01,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-MVHLLT,CUST-LBNHLM,69,2026-03-02,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-YKXVJU,CUST-OBEDAA,45,2026-03-03,Completed,VoIP Service,Credit Card,2
+CUST-RDUVJL,CUST-ZKGLOG,68,2026-03-04,Pending,VoIP Service,Direct Debit,4
+CUST-DCEPYJ,CUST-EQJHOG,128,2026-03-05,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-BATYKR,CUST-GOZBZA,99,2026-03-06,Completed,Mobile Unlimited,Credit Card,1
+CUST-UVIYEU,CUST-IIGGGS,76,2026-03-07,Completed,TV + Internet Bundle,Credit Card,3
+CUST-ZLCFPZ,CUST-SCRTCC,68,2026-03-08,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-GFCXCS,CUST-IXUGVN,61,2026-03-09,Cancelled,Mobile Unlimited,Direct Debit,3
+CUST-NUAZQK,CUST-JNUKMM,143,2026-03-10,Pending,Fiber 1 Gbps,PayPal,4
+CUST-OIYKZS,CUST-KQJJQD,55,2026-03-11,Completed,VoIP Service,PayPal,4
+CUST-CTTZAH,CUST-JTIFFT,43,2026-03-12,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-KBNTKN,CUST-HLJBYT,117,2026-03-13,Cancelled,TV + Internet Bundle,PayPal,3
+CUST-KRKBJO,CUST-USJIBJ,54,2026-03-14,Pending,VoIP Service,Credit Card,4
+CUST-WUHRMD,CUST-PLXEDI,53,2026-03-15,Completed,VoIP Service,Credit Card,3
+CUST-QSSOJT,CUST-JRAPDA,27,2026-03-16,Cancelled,VoIP Service,Direct Debit,4
+CUST-PXVDBT,CUST-XMKBTE,65,2026-03-17,Pending,VoIP Service,PayPal,2
+CUST-JTXRHX,CUST-YFARJC,51,2026-03-18,Cancelled,Fiber 1 Gbps,Credit Card,2
+CUST-IWCRSI,CUST-PDBGOS,144,2026-03-19,Completed,TV + Internet Bundle,Direct Debit,1
+CUST-NOYVDP,CUST-FUCXZL,142,2026-03-20,Cancelled,TV + Internet Bundle,Credit Card,2
+CUST-XREWEN,CUST-NPIAKW,22,2026-03-21,Cancelled,VoIP Service,PayPal,3
+CUST-DCSPSK,CUST-LRQNCG,98,2026-03-22,Completed,TV + Internet Bundle,PayPal,2
+CUST-SIXMBE,CUST-VZVPBN,40,2026-03-23,Completed,Mobile Unlimited,Credit Card,4
+CUST-RVGYPG,CUST-THKGFA,142,2026-03-24,Cancelled,TV + Internet Bundle,Credit Card,1
+CUST-BRWCRN,CUST-RDLGMG,71,2026-03-25,Completed,Mobile Unlimited,PayPal,4
+CUST-RLCXER,CUST-ISBIX0,50,2026-03-26,Completed,TV + Internet Bundle,Credit Card,4
+CUST-0WSHQG,CUST-MDJJFP,95,2026-03-27,Pending,VoIP Service,Credit Card,4
+CUST-FBSCIV,CUST-YQQUYZ,42,2026-03-28,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-AGKCYK,CUST-CJGEMY,133,2026-03-29,Pending,Mobile Unlimited,Credit Card,2
+CUST-MOWZEQ,CUST-XWKZAX,73,2026-03-30,Completed,VoIP Service,Credit Card,2
+CUST-HUQBRZ,CUST-WMUPCF,97,2026-03-31,Completed,TV + Internet Bundle,PayPal,2
+CUST-KHDJBB,CUST-VMJJZX,106,2026-04-01,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-ECYGQO,CUST-UGNXRG,87,2026-04-02,Pending,Mobile Unlimited,PayPal,1
+CUST-BIHPUQ,CUST-SRCUIL,94,2026-04-03,Pending,Fiber 1 Gbps,PayPal,4
+CUST-SZUIBB,CUST-DINJBI,48,2026-04-04,Pending,Fiber 500 Mbps,Direct Debit,3
+CUST-GJTSNX,CUST-KDYFRH,34,2026-04-05,Pending,TV + Internet Bundle,Credit Card,1
+CUST-BJBKHU,CUST-YFFCIN,95,2026-04-06,Completed,Fiber 1 Gbps,Direct Debit,1
+CUST-GLFGTE,CUST-TYKDYX,48,2026-04-07,Pending,Fiber 500 Mbps,Credit Card,2
+CUST-VTTUPE,CUST-ZAZFRJ,41,2026-04-08,Cancelled,Fiber 500 Mbps,Direct Debit,2
+CUST-FZEBAJ,CUST-ZRGZTN,118,2026-04-09,Cancelled,Fiber 1 Gbps,PayPal,1
+CUST-PTOSKR,CUST-DCBCIF,127,2026-04-10,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-ZUKUVH,CUST-WPIIDZ,106,2026-04-11,Completed,Fiber 500 Mbps,PayPal,4
+CUST-CNEAGW,CUST-0PS0NU,29,2026-04-12,Completed,Fiber 500 Mbps,PayPal,1
+CUST-WVURXP,CUST-VXSLVB,25,2026-04-13,Cancelled,Fiber 1 Gbps,Direct Debit,4
+CUST-AFHTPM,CUST-STSIWM,64,2026-04-14,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-KIBBIQ,CUST-ULONWZ,127,2026-04-15,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-NMHETQ,CUST-LFYSRB,50,2026-04-16,Pending,Fiber 1 Gbps,Credit Card,2
+CUST-AKVDFL,CUST-WRUGMI,41,2026-04-17,Completed,Mobile Unlimited,Direct Debit,2
+CUST-AINPUE,CUST-YIOQIB,48,2026-04-18,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-ENEVMR,CUST-VQNKAP,117,2026-04-19,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-GYMQET,CUST-OFBBCO,125,2026-04-20,Completed,VoIP Service,PayPal,4
+CUST-LTJLSM,CUST-VYLDOZ,95,2026-04-21,Pending,TV + Internet Bundle,PayPal,3
+CUST-AJETGB,CUST-JCBFHS,92,2026-04-22,Pending,Mobile Unlimited,PayPal,2
+CUST-MXHIRY,CUST-RLQHAT,144,2026-04-23,Cancelled,VoIP Service,Direct Debit,4
+CUST-CBQQDJ,CUST-IKOGFN,99,2026-04-24,Completed,Fiber 1 Gbps,PayPal,4
+CUST-CQWKFH,CUST-ILWCJJ,136,2026-04-25,Cancelled,VoIP Service,Credit Card,3
+CUST-KLTJHD,CUST-CWWMCC,145,2026-04-26,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-XQRALD,CUST-WBDMDP,49,2026-04-27,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-LAZLAS,CUST-COGGXD,66,2026-04-28,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-DGIUXZ,CUST-XHZIWL,124,2026-04-29,Cancelled,TV + Internet Bundle,Direct Debit,1
+CUST-AGKXGX,CUST-GOZBZA,142,2026-04-30,Completed,TV + Internet Bundle,PayPal,1
+CUST-NQFQXE,CUST-NPBE0V,115,2026-05-01,Cancelled,Fiber 500 Mbps,PayPal,4
+CUST-RHBXPB,CUST-CGMGEH,62,2026-05-02,Pending,Mobile Unlimited,PayPal,1
+CUST-BMZDBH,CUST-GOHDBW,125,2026-05-03,Pending,Fiber 1 Gbps,Credit Card,2
+CUST-EJAILE,CUST-QXIZDZ,124,2026-05-04,Cancelled,Fiber 1 Gbps,Credit Card,4
+CUST-TBTDRL,CUST-WKKHJY,59,2026-05-05,Pending,TV + Internet Bundle,Credit Card,2
+CUST-TGKJIA,CUST-FTCNKG,27,2026-05-06,Pending,VoIP Service,Credit Card,4
+CUST-UOXVZV,CUST-ZDGWGS,42,2026-05-07,Pending,Fiber 500 Mbps,PayPal,3
+CUST-SFQZRD,CUST-WCPNGF,91,2026-05-08,Completed,Fiber 1 Gbps,Direct Debit,1
+CUST-RNNYFS,CUST-KTETHC,61,2026-05-09,Cancelled,VoIP Service,Direct Debit,2
+CUST-RJZEVS,CUST-WPMJVW,83,2026-05-10,Completed,TV + Internet Bundle,Credit Card,3
+CUST-SIBAXY,CUST-HRPIY0,36,2026-05-11,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-WZQFRN,CUST-CTECGK,126,2026-05-12,Completed,TV + Internet Bundle,Credit Card,1
+CUST-XORTZQ,CUST-TFEJMN,54,2026-05-13,Pending,TV + Internet Bundle,PayPal,1
+CUST-DUROEA,CUST-FUKKFG,147,2026-05-14,Completed,VoIP Service,PayPal,4
+CUST-VOXNHX,CUST-VQNKAP,55,2026-05-15,Pending,Fiber 500 Mbps,Direct Debit,3
+CUST-EGBXJH,CUST-UUTJQI,68,2026-05-16,Pending,Fiber 500 Mbps,Credit Card,4
+CUST-TIMVZM,CUST-NQIVTC,142,2026-05-17,Pending,Fiber 500 Mbps,Direct Debit,2
+CUST-SLNGXW,CUST-AOORMS,118,2026-05-18,Pending,Fiber 500 Mbps,Direct Debit,2
+CUST-QKIRCK,CUST-IJJTON,106,2026-05-19,Cancelled,TV + Internet Bundle,PayPal,4
+CUST-YODMZP,CUST-QXPWZY,137,2026-05-20,Cancelled,VoIP Service,Direct Debit,3
+CUST-EENJDN,CUST-EUIHOQ,22,2026-05-21,Completed,TV + Internet Bundle,PayPal,2
+CUST-JFCHDD,CUST-NWAOGK,138,2026-05-22,Pending,Fiber 500 Mbps,PayPal,1
+CUST-JQCVLU,CUST-YIKVOH,105,2026-05-23,Completed,VoIP Service,Credit Card,2
+CUST-SFUPTR,CUST-PIMZWH,138,2026-05-24,Completed,VoIP Service,Direct Debit,4
+CUST-AYNXCI,CUST-QRWRCV,75,2026-05-25,Completed,Fiber 1 Gbps,PayPal,2
+CUST-SXPVWF,CUST-0QFIEJ,112,2026-05-26,Pending,TV + Internet Bundle,Credit Card,2
+CUST-KCSXNZ,CUST-QZAVXJ,48,2026-05-27,Pending,VoIP Service,PayPal,4
+CUST-JZQKPT,CUST-VYRHRH,35,2026-05-28,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-VLFBEE,CUST-CAWEZD,119,2026-05-29,Pending,VoIP Service,Credit Card,3
+CUST-UAQPZU,CUST-ZSOHLI,144,2026-05-30,Pending,Mobile Unlimited,Direct Debit,2
+CUST-ZDNAFI,CUST-ZTTLAD,30,2026-05-31,Cancelled,VoIP Service,Credit Card,1
+CUST-KVEJKR,CUST-BCCMTX,43,2026-06-01,Pending,VoIP Service,Direct Debit,4
+CUST-AYAHUT,CUST-FTZKRZ,127,2026-06-02,Pending,VoIP Service,Direct Debit,1
+CUST-IMPHIZ,CUST-KKKPVV,44,2026-06-03,Completed,Mobile Unlimited,Credit Card,3
+CUST-RZJNGR,CUST-ISEQUK,149,2026-06-04,Cancelled,VoIP Service,Credit Card,3
+CUST-XFQXFQ,CUST-LGEKUC,109,2026-06-05,Pending,Fiber 500 Mbps,Direct Debit,4
+CUST-EFKNHC,CUST-PRKQGZ,53,2026-06-06,Pending,VoIP Service,Direct Debit,3
+CUST-NXNOXB,CUST-ORFQMW,61,2026-06-07,Pending,VoIP Service,Direct Debit,3
+CUST-ABKUNP,CUST-OHJLIZ,67,2026-06-08,Pending,VoIP Service,PayPal,1
+CUST-IGEYAB,CUST-KHJWOK,135,2026-06-09,Completed,TV + Internet Bundle,Direct Debit,1
+CUST-FJMMQF,CUST-BJUYFU,78,2026-06-10,Completed,TV + Internet Bundle,Credit Card,1
+CUST-AGKVWG,CUST-ZMVXOV,127,2026-06-11,Pending,Mobile Unlimited,PayPal,4
+CUST-TSMHFA,CUST-RXDDJM,65,2026-06-12,Pending,Mobile Unlimited,PayPal,3
+CUST-QDZZRS,CUST-SCKXVX,130,2026-06-13,Pending,TV + Internet Bundle,PayPal,3
+CUST-GIWWOB,CUST-TYKDYX,101,2026-06-14,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-NKSLWL,CUST-HKCYXU,68,2026-06-15,Pending,VoIP Service,Direct Debit,4
+CUST-TNQFIT,CUST-THSYAW,39,2026-06-16,Cancelled,Fiber 500 Mbps,Credit Card,4
+CUST-TTCBQI,CUST-CGHARR,63,2026-06-17,Completed,VoIP Service,PayPal,3
+CUST-SOXOEJ,CUST-AMNZYF,77,2026-06-18,Cancelled,Fiber 1 Gbps,Direct Debit,2
+CUST-ZMTPNR,CUST-TFEJMN,121,2026-06-19,Completed,Fiber 500 Mbps,Direct Debit,1
+CUST-BZTXFB,CUST-FTWPQY,134,2026-06-20,Completed,Mobile Unlimited,Credit Card,4
+CUST-GLBPNL,CUST-HRDTDD,116,2026-06-21,Cancelled,Fiber 500 Mbps,Credit Card,3
+CUST-QLHMFV,CUST-AVTXAG,73,2026-06-22,Cancelled,Mobile Unlimited,Credit Card,2
+CUST-HWHNLW,CUST-ZWSBLO,34,2026-06-23,Pending,Mobile Unlimited,PayPal,2
+CUST-HLHAYL,CUST-FYOLMT,133,2026-06-24,Cancelled,Mobile Unlimited,Credit Card,1
+CUST-FVQSWJ,CUST-LNBTBO,132,2026-06-25,Pending,VoIP Service,Direct Debit,1
+CUST-NZTUSZ,CUST-NQIVTC,63,2026-06-26,Cancelled,TV + Internet Bundle,Credit Card,3
+CUST-MCZJSG,CUST-GHPFOA,118,2026-06-27,Cancelled,VoIP Service,Credit Card,1
+CUST-KFQEVT,CUST-ZZTIIZ,135,2026-06-28,Cancelled,Mobile Unlimited,PayPal,1
+CUST-PJCEPR,CUST-KYHJZN,22,2026-06-29,Completed,Fiber 1 Gbps,PayPal,4
+CUST-QRUCBC,CUST-MYHYST,38,2026-06-30,Completed,VoIP Service,Credit Card,4
+CUST-PGFFEJ,CUST-EKJSXF,72,2026-07-01,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-TQBUDP,CUST-SZGKTZ,57,2026-07-02,Completed,Mobile Unlimited,Credit Card,4
+CUST-ZHHCSO,CUST-XXVULS,142,2026-07-03,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-KDTVBO,CUST-AFFSNF,52,2026-07-04,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-VWCDJM,CUST-YFARJC,38,2026-07-05,Cancelled,VoIP Service,Credit Card,2
+CUST-QDLOCY,CUST-USLJOR,37,2026-07-06,Pending,TV + Internet Bundle,PayPal,2
+CUST-HYAAAF,CUST-LSBRRB,110,2026-07-07,Cancelled,Fiber 1 Gbps,Direct Debit,3
+CUST-AUZIJE,CUST-IRRRJG,59,2026-07-08,Cancelled,TV + Internet Bundle,PayPal,2
+CUST-WJGAYS,CUST-ITUGIR,120,2026-07-09,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-XYPYLM,CUST-VYLDOZ,29,2026-07-10,Pending,Fiber 500 Mbps,Credit Card,2
+CUST-MOHUTR,CUST-XDMPUD,111,2026-07-11,Pending,Mobile Unlimited,Direct Debit,4
+CUST-TLREBT,CUST-YIKVOH,97,2026-07-12,Cancelled,Fiber 1 Gbps,Direct Debit,1
+CUST-WVN0GS,CUST-SXQGJD,107,2026-07-13,Completed,Fiber 1 Gbps,Credit Card,1
+CUST-TYYAVT,CUST-CAAFCG,69,2026-07-14,Cancelled,Mobile Unlimited,PayPal,4
+CUST-WXQPVK,CUST-OFBBCO,45,2026-07-15,Pending,Fiber 1 Gbps,PayPal,2
+CUST-CZAXEG,CUST-UEDNBV,45,2026-07-16,Completed,Mobile Unlimited,PayPal,1
+CUST-VSISDQ,CUST-PQVOEO,87,2026-07-17,Completed,Fiber 500 Mbps,Direct Debit,4
+CUST-MCJFEK,CUST-YAFHFQ,118,2026-07-18,Completed,Mobile Unlimited,PayPal,2
+CUST-LCVXCQ,CUST-KWZYMD,39,2026-07-19,Completed,VoIP Service,PayPal,1
+CUST-RJQSXS,CUST-XMKBTE,120,2026-07-20,Pending,Fiber 1 Gbps,Credit Card,3
+CUST-BHBGIG,CUST-JXCAIP,34,2026-07-21,Pending,Fiber 1 Gbps,Direct Debit,2
+CUST-JOAWUZ,CUST-ZRGZTN,78,2026-07-22,Pending,Mobile Unlimited,Direct Debit,2
+CUST-GUBBTJ,CUST-WWRAUT,54,2026-07-23,Completed,TV + Internet Bundle,Credit Card,2
+CUST-MMUURU,CUST-SMZOXR,53,2026-07-24,Completed,Mobile Unlimited,PayPal,3
+CUST-KNNBXS,CUST-USJIBJ,78,2026-07-25,Completed,TV + Internet Bundle,Credit Card,3
+CUST-FUIJYO,CUST-KHJWOK,102,2026-07-26,Cancelled,Mobile Unlimited,Direct Debit,4
+CUST-EGUE0K,CUST-FXVKSO,88,2026-07-27,Completed,Fiber 1 Gbps,PayPal,1
+CUST-FIUNWG,CUST-JJVZUL,52,2026-07-28,Completed,Fiber 500 Mbps,Direct Debit,2
+CUST-RYQRPR,CUST-OCTWMB,135,2026-07-29,Completed,TV + Internet Bundle,Direct Debit,3
+CUST-ZVNTZI,CUST-XOODPV,142,2026-07-30,Completed,Mobile Unlimited,Direct Debit,3
+CUST-FKTDMU,CUST-CRSLQM,89,2026-07-31,Cancelled,VoIP Service,Direct Debit,2
+CUST-GVEEIN,CUST-LSBRRB,53,2026-08-01,Cancelled,VoIP Service,Credit Card,2
+CUST-HWNFTV,CUST-ISBIX0,48,2026-08-02,Cancelled,Fiber 1 Gbps,Direct Debit,2
+CUST-VIXYNY,CUST-EBQWDR,65,2026-08-03,Cancelled,VoIP Service,Direct Debit,1
+CUST-QDLRLX,CUST-VYAAJB,92,2026-08-04,Cancelled,Fiber 1 Gbps,Credit Card,4
+CUST-AOMYKN,CUST-QCTBWO,79,2026-08-05,Cancelled,TV + Internet Bundle,PayPal,1
+CUST-ZVCXXY,CUST-WWMUHA,139,2026-08-06,Pending,Mobile Unlimited,PayPal,3
+CUST-LFLUHS,CUST-WTEGFQ,51,2026-08-07,Completed,VoIP Service,Direct Debit,1
+CUST-SDMVPB,CUST-MBGHKK,62,2026-08-08,Cancelled,Mobile Unlimited,Direct Debit,1
+CUST-FQHJAT,CUST-BBICOG,118,2026-08-09,Completed,VoIP Service,Direct Debit,4
+CUST-HJAOCP,CUST-YKWDPO,99,2026-08-10,Pending,Mobile Unlimited,Direct Debit,3
+CUST-IMOSNZ,CUST-NEIVBH,24,2026-08-11,Cancelled,VoIP Service,PayPal,1
+CUST-ZSFQHA,CUST-LUXHPK,138,2026-08-12,Completed,VoIP Service,Direct Debit,4
+CUST-GDRNDK,CUST-TUQHIJ,89,2026-08-13,Completed,Fiber 1 Gbps,Credit Card,2
+CUST-THVCUK,CUST-ERWGBE,120,2026-08-14,Cancelled,Fiber 1 Gbps,PayPal,3
+CUST-0QYKVJ,CUST-SATIHH,112,2026-08-15,Completed,Fiber 1 Gbps,PayPal,4
+CUST-XRHHCG,CUST-VJVIFS,28,2026-08-16,Completed,VoIP Service,Credit Card,1
+CUST-KDUYTT,CUST-KYHJZN,41,2026-08-17,Completed,Mobile Unlimited,Direct Debit,4
+CUST-KJPHVB,CUST-JGCRVX,112,2026-08-18,Cancelled,Mobile Unlimited,Direct Debit,1
+CUST-LSBFHV,CUST-LTDW0G,136,2026-08-19,Cancelled,Fiber 500 Mbps,Direct Debit,4
+CUST-RIKTNE,CUST-LKUZJT,143,2026-08-20,Pending,Fiber 1 Gbps,PayPal,3
+CUST-OQSJHZ,CUST-AQOPNN,80,2026-08-21,Cancelled,Mobile Unlimited,PayPal,4
+CUST-HXCHBZ,CUST-RDXCCI,57,2026-08-22,Completed,TV + Internet Bundle,Credit Card,3
+CUST-VVOHRP,CUST-WAIULK,116,2026-08-23,Pending,VoIP Service,PayPal,2
+CUST-PNRHQF,CUST-TTKGFM,79,2026-08-24,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-DYCFAS,CUST-JWRVMF,79,2026-08-25,Cancelled,TV + Internet Bundle,Credit Card,4
+CUST-SSNABS,CUST-YPMPDM,145,2026-08-26,Completed,Fiber 1 Gbps,PayPal,4
+CUST-HAQRBT,CUST-IXUGVN,24,2026-08-27,Pending,Fiber 500 Mbps,PayPal,3
+CUST-LPGXXN,CUST-YDPRKI,38,2026-08-28,Completed,VoIP Service,Direct Debit,1
+CUST-XKDSDS,CUST-YZVAVE,110,2026-08-29,Pending,Fiber 500 Mbps,Credit Card,2
+CUST-ANXOGY,CUST-ICILUO,90,2026-08-30,Completed,TV + Internet Bundle,Credit Card,2
+CUST-MVDRII,CUST-YPD0A0,54,2026-08-31,Completed,Mobile Unlimited,Credit Card,1
+CUST-QPXZTZ,CUST-NRBIXS,87,2026-09-01,Pending,TV + Internet Bundle,Direct Debit,3
+CUST-USQVNM,CUST-UUTJQI,124,2026-09-02,Cancelled,Mobile Unlimited,Credit Card,4
+CUST-JMPIBR,CUST-VDOXYT,37,2026-09-03,Completed,VoIP Service,Credit Card,2
+CUST-BQAAUG,CUST-BSWULD,141,2026-09-04,Pending,Fiber 500 Mbps,Credit Card,3
+CUST-LUQODW,CUST-ZFTDSM,82,2026-09-05,Completed,VoIP Service,Credit Card,1
+CUST-FJNYWS,CUST-YUBLAQ,43,2026-09-06,Cancelled,VoIP Service,PayPal,2
+CUST-JD0CFK,CUST-JWRVMF,84,2026-09-07,Cancelled,Mobile Unlimited,Credit Card,4
+CUST-EWPEVQ,CUST-MPGQMJ,103,2026-09-08,Pending,VoIP Service,PayPal,2
+CUST-JBKFNH,CUST-ZZQTAV,73,2026-09-09,Pending,Fiber 500 Mbps,PayPal,4
+CUST-ABRKSS,CUST-VMJJZX,141,2026-09-10,Completed,Fiber 1 Gbps,Credit Card,4
+CUST-IUMWJG,CUST-AFQHWQ,66,2026-09-11,Pending,Fiber 500 Mbps,Credit Card,1
+CUST-WWYBMC,CUST-DCBCIF,112,2026-09-12,Pending,VoIP Service,Credit Card,2
+CUST-LSMUXS,CUST-GSMMUO,65,2026-09-13,Pending,TV + Internet Bundle,Credit Card,4
+CUST-XDYVFU,CUST-SGSTOO,131,2026-09-14,Cancelled,Mobile Unlimited,Credit Card,1
+CUST-QSFRUS,CUST-HTXTFQ,122,2026-09-15,Pending,TV + Internet Bundle,Direct Debit,1
+CUST-ZGQWFU,CUST-SDHFZM,140,2026-09-16,Cancelled,Fiber 1 Gbps,Direct Debit,2
+CUST-GSIEYV,CUST-KJTULL,100,2026-09-17,Cancelled,Fiber 500 Mbps,Credit Card,2
+CUST-GTMEGI,CUST-WPPPZN,144,2026-09-18,Completed,VoIP Service,Direct Debit,1
+CUST-LQSAJG,CUST-EPADZG,129,2026-09-19,Completed,VoIP Service,Credit Card,3
+CUST-ZD0LZA,CUST-XTTGXN,45,2026-09-20,Completed,VoIP Service,Credit Card,2
+CUST-RDBNPU,CUST-FRAXZS,111,2026-09-21,Pending,Mobile Unlimited,PayPal,1
+CUST-PWKDCJ,CUST-XYWSFR,131,2026-09-22,Completed,Fiber 1 Gbps,Direct Debit,3
+CUST-VMMOHT,CUST-JEEFWV,43,2026-09-23,Completed,VoIP Service,PayPal,4
+CUST-DNTGDN,CUST-GOAGQW,99,2026-09-24,Completed,VoIP Service,Direct Debit,4
+CUST-OHRQXR,CUST-JJVZUL,53,2026-09-25,Cancelled,Mobile Unlimited,PayPal,3
+CUST-POOPSC,CUST-KLQSAJ,126,2026-09-26,Pending,VoIP Service,Credit Card,3
